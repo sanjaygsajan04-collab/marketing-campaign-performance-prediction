@@ -1,0 +1,12 @@
+Task,Model,RMSE,MAE,MSE,R2,Accuracy,Precision,Recall,F1
+Revenue (inputs only),Linear Regression,247855.3032,161869.4765,61432251331.2751,0.7396,,,,
+Revenue (inputs only),Decision Tree,258430.8594,163234.6562,66786509106.3048,0.7169,,,,
+Revenue (inputs only),Random Forest,239252.5162,157338.6215,57241766521.908,0.7574,,,,
+Revenue (inputs only),Random Forest (tuned),239168.2437,157656.5093,57201448790.4915,0.7576,,,,
+Revenue (with ROI),Linear Regression,210585.958,134288.8025,44346445711.068,0.8121,,,,
+Revenue (with ROI),Decision Tree,33661.0529,12711.7559,1133066479.5984,0.9952,,,,
+Revenue (with ROI),Random Forest,28022.5724,6403.4356,785264563.2139,0.9967,,,,
+Profit/Loss,Logistic Regression,,,,,0.9082,0.9264,0.9546,0.9403
+Profit/Loss,Decision Tree,,,,,0.9059,0.9276,0.9498,0.9386
+Profit/Loss,Random Forest,,,,,0.9099,0.925,0.9587,0.9415
+Profit/Loss,Random Forest (tuned),,,,,0.9097,0.9245,0.9591,0.9415

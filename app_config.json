@@ -1,0 +1,111 @@
+{
+ "columns": [
+  "Duration",
+  "Impressions",
+  "Clicks",
+  "Leads",
+  "Conversions",
+  "Acquisition_Cost",
+  "Engagement_Score",
+  "Channel_Email",
+  "Channel_Facebook",
+  "Channel_Google",
+  "Channel_Instagram",
+  "Channel_WhatsApp",
+  "Channel_YouTube",
+  "Brand_Nykaa",
+  "Brand_Purplle",
+  "Brand_Tira",
+  "Campaign_Type_Email",
+  "Campaign_Type_Influencer",
+  "Campaign_Type_Paid Ads",
+  "Campaign_Type_SEO",
+  "Campaign_Type_Social Media",
+  "Target_Audience_College Students",
+  "Target_Audience_Premium Shoppers",
+  "Target_Audience_Tier 2 City Customers",
+  "Target_Audience_Working Women",
+  "Target_Audience_Youth",
+  "Language_Bengali",
+  "Language_English",
+  "Language_Hindi",
+  "Language_Tamil",
+  "Customer_Segment_College Students",
+  "Customer_Segment_Premium Shoppers",
+  "Customer_Segment_Tier 2 City Customers",
+  "Customer_Segment_Working Women",
+  "Customer_Segment_Youth",
+  "Total_Cost"
+ ],
+ "cats": {
+  "Brand": [
+   "Nykaa",
+   "Purplle",
+   "Tira"
+  ],
+  "Campaign_Type": [
+   "Email",
+   "Influencer",
+   "Paid Ads",
+   "SEO",
+   "Social Media"
+  ],
+  "Target_Audience": [
+   "College Students",
+   "Premium Shoppers",
+   "Tier 2 City Customers",
+   "Working Women",
+   "Youth"
+  ],
+  "Language": [
+   "Bengali",
+   "English",
+   "Hindi",
+   "Tamil"
+  ],
+  "Customer_Segment": [
+   "College Students",
+   "Premium Shoppers",
+   "Tier 2 City Customers",
+   "Working Women",
+   "Youth"
+  ]
+ },
+ "ranges": {
+  "Duration": [
+   5.0,
+   30.0,
+   17.0
+  ],
+  "Impressions": [
+   10001.0,
+   100000.0,
+   55134.0
+  ],
+  "Clicks": [
+   202.0,
+   14944.0,
+   3909.0
+  ],
+  "Leads": [
+   48.0,
+   8876.0,
+   1475.0
+  ],
+  "Conversions": [
+   17.0,
+   6686.0,
+   775.0
+  ],
+  "Acquisition_Cost": [
+   8.18,
+   15473.16,
+   208.28
+  ],
+  "Engagement_Score": [
+   2.56,
+   30.99,
+   13.57
+  ]
+ }
+}

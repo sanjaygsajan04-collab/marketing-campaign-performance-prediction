@@ -1,0 +1,601 @@
+Campaign_ID,Brand,Campaign_Type,Target_Audience,Customer_Segment,Channel_Used,Conversions,Revenue,Total_Cost,Net_Profit,ROI,Group
+NY-CMP-13007,Nykaa,Paid Ads,Youth,Tier 2 City Customers,"Email, YouTube, Facebook",6686.0,4579910.0,60708.88,4519201.12,74.44,Top
+NY-CMP-44157,Nykaa,SEO,Premium Shoppers,Working Women,YouTube,5607.0,4412709.0,101374.56,4311334.44,42.53,Top
+TI-CMP-42309,Tira,Paid Ads,Working Women,Youth,YouTube,5661.0,4517478.0,254122.29,4263355.71,16.78,Top
+PU-CMP-22268,Purplle,Paid Ads,Premium Shoppers,Youth,"WhatsApp, YouTube",6036.0,4345920.0,201904.2,4144015.8,20.52,Top
+NY-CMP-6741,Nykaa,Paid Ads,Tier 2 City Customers,Youth,WhatsApp,5678.0,4263879.0,127584.66,4136294.34,32.42,Top
+TI-CMP-52788,Tira,Influencer,Premium Shoppers,Working Women,"Facebook, Email",5309.0,4231273.0,98641.22,4132631.78,41.9,Top
+PU-CMP-36294,Purplle,Influencer,College Students,Premium Shoppers,Instagram,5379.0,4195620.0,109462.65,4086157.35,37.33,Top
+NY-CMP-38379,Nykaa,Influencer,Tier 2 City Customers,Youth,Instagram,5910.0,4326120.0,299991.6,4026128.4,13.42,Top
+PU-CMP-9438,Purplle,Influencer,Tier 2 City Customers,Youth,"Instagram, Email, Google",5470.0,4184550.0,172633.19999999998,4011916.8,23.24,Top
+PU-CMP-48391,Purplle,Influencer,Premium Shoppers,Tier 2 City Customers,"Facebook, YouTube",5791.0,4082655.0,71982.13,4010672.87,55.72,Top
+TI-CMP-33733,Tira,SEO,College Students,Working Women,"Facebook, WhatsApp",5820.0,4277700.0,273714.60000000003,4003985.4,14.63,Top
+TI-CMP-27796,Tira,Email,College Students,College Students,"YouTube, Google",5788.0,4207876.0,207384.04,4000491.96,19.29,Top
+TI-CMP-46406,Tira,Social Media,Tier 2 City Customers,Tier 2 City Customers,"Google, Instagram",6152.0,4041864.0,50323.36,3991540.64,79.32,Top
+TI-CMP-FILL128459,Tira,Paid Ads,Youth,Tier 2 City Customers,"Facebook, Google",5358.0,4045290.0,55294.560000000005,3989995.44,72.16,Top
+NY-CMP-53612,Nykaa,Email,Premium Shoppers,Tier 2 City Customers,"Instagram, Email",5359.0,4067481.0,97480.21,3970000.79,40.73,Top
+TI-CMP-49375,Tira,Social Media,College Students,Working Women,Email,6383.0,4187248.0,231766.73,3955481.27,17.07,Top
+TI-CMP-22792,Tira,Influencer,Youth,Premium Shoppers,Unknown,5622.0,4132170.0,182546.34,3949623.66,21.64,Top
+NY-CMP-40527,Nykaa,Email,Tier 2 City Customers,Premium Shoppers,"Email, YouTube",5371.0,4022879.0,112092.77,3910786.23,34.89,Top
+NY-CMP-11367,Nykaa,Email,Working Women,Premium Shoppers,YouTube,6232.0,4119352.0,225037.52,3894314.48,17.31,Top
+NY-CMP-56543,Nykaa,Influencer,College Students,Premium Shoppers,Facebook,5302.0,4119654.0,236098.06,3883555.94,16.45,Top
+PU-CMP-9523,Purplle,Social Media,Premium Shoppers,Youth,"YouTube, Google, Instagram",5935.0,4148565.0,288559.7,3860005.3,13.38,Top
+PU-CMP-7588,Purplle,Social Media,Tier 2 City Customers,Tier 2 City Customers,Google,5066.0,3936282.0,76547.26,3859734.74,50.42,Top
+PU-CMP-50834,Purplle,Paid Ads,Premium Shoppers,Tier 2 City Customers,"Email, WhatsApp, YouTube",6030.0,4052160.0,200135.7,3852024.3,19.25,Top
+NY-CMP-13914,Nykaa,Email,College Students,Youth,"WhatsApp, Instagram, Facebook",5109.0,4066764.0,217490.13,3849273.87,17.7,Top
+NY-CMP-44966,Nykaa,Paid Ads,Youth,Working Women,"Email, Facebook, Google",4857.0,3866172.0,75817.77,3790354.23,49.99,Top
+NY-CMP-7698,Nykaa,Paid Ads,Tier 2 City Customers,College Students,"Google, Instagram, Email",4962.0,3875322.0,89067.9,3786254.1,42.51,Top
+NY-CMP-22689,Nykaa,Influencer,Youth,College Students,"Instagram, YouTube",5315.0,3821485.0,56764.2,3764720.8,66.32,Top
+PU-CMP-49499,Purplle,SEO,Working Women,Youth,"Google, Facebook",5587.0,3843856.0,90453.53,3753402.47,41.5,Top
+PU-CMP-36562,Purplle,Influencer,Premium Shoppers,Working Women,"Google, WhatsApp",5233.0,3909051.0,156205.05000000002,3752845.95,24.03,Top
+PU-CMP-FILL66250,Purplle,Email,Youth,Youth,WhatsApp,4951.0,3945947.0,193732.63,3752214.37,19.37,Top
+PU-CMP-FILL84577,Purplle,SEO,Working Women,Youth,"Google, Email",4970.0,3811990.0,75544.0,3736446.0,49.46,Top
+PU-CMP-45007,Purplle,Social Media,College Students,Tier 2 City Customers,"Google, Facebook, Instagram",5446.0,3948350.0,214027.8,3734322.2,17.45,Top
+TI-CMP-35406,Tira,Email,Youth,Working Women,"Instagram, Facebook, Google",5070.0,3787290.0,62006.1,3725283.9,60.08,Top
+TI-CMP-23507,Tira,Email,College Students,Youth,"Facebook, Instagram",5630.0,3879070.0,169631.9,3709438.1,21.87,Top
+TI-CMP-41066,Tira,Influencer,Youth,Working Women,"YouTube, WhatsApp, Facebook",5681.0,3828994.0,129469.99,3699524.01,28.57,Top
+TI-CMP-19998,Tira,Paid Ads,Youth,College Students,"WhatsApp, Facebook",5159.0,3853773.0,170143.81999999998,3683629.18,21.65,Top
+PU-CMP-21373,Purplle,Social Media,Tier 2 City Customers,Premium Shoppers,"WhatsApp, Facebook",5276.0,3909516.0,239055.56,3670460.44,15.35,Top
+NY-CMP-49715,Nykaa,Paid Ads,Premium Shoppers,Working Women,WhatsApp,4664.0,3717208.0,56341.12,3660866.88,64.98,Top
+TI-CMP-28027,Tira,SEO,Premium Shoppers,Tier 2 City Customers,"WhatsApp, Google",4840.0,3784880.0,141618.4,3643261.6,25.73,Top
+TI-CMP-38068,Tira,Social Media,Working Women,Youth,"Facebook, Instagram, WhatsApp",4897.0,3702132.0,61457.350000000006,3640674.65,59.24,Top
+NY-CMP-3359,Nykaa,Email,Youth,Tier 2 City Customers,"Google, WhatsApp",5047.0,3891237.0,265976.9,3625260.1,13.63,Top
+TI-CMP-14875,Tira,Paid Ads,Youth,College Students,"WhatsApp, YouTube, Instagram",5517.0,3746043.0,127884.06,3618158.94,28.29,Top
+TI-CMP-50003,Tira,Email,College Students,Youth,Google,5707.0,3772327.0,155629.88999999998,3616697.11,23.24,Top
+TI-CMP-26947,Tira,Email,Premium Shoppers,Youth,Unknown,6032.0,3739840.0,129567.36,3610272.64,27.86,Top
+PU-CMP-8989,Purplle,SEO,Premium Shoppers,Tier 2 City Customers,"Email, YouTube",4650.0,3668850.0,58683.0,3610167.0,61.52,Top
+PU-CMP-35309,Purplle,Email,Working Women,College Students,"Instagram, Email, YouTube",772.0,3651952.0,42421.4,3609530.6,85.09,Top
+NY-CMP-37005,Nykaa,Paid Ads,College Students,Working Women,Unknown,5092.0,3717160.0,114875.52,3602284.48,31.36,Top
+TI-CMP-24410,Tira,Influencer,Premium Shoppers,Tier 2 City Customers,Email,4688.0,3741024.0,145046.72,3595977.28,24.79,Top
+TI-CMP-17225,Tira,Paid Ads,College Students,Youth,"Facebook, YouTube, Google",5739.0,3804957.0,217450.71,3587506.29,16.5,Top
+TI-CMP-47671,Tira,Influencer,Working Women,Tier 2 City Customers,Facebook,4921.0,3794091.0,207912.25,3586178.75,17.25,Top
+NY-CMP-6669,Nykaa,Paid Ads,Tier 2 City Customers,Working Women,"WhatsApp, Email",5090.0,3853130.0,275623.5,3577506.5,12.98,Top
+TI-CMP-18838,Tira,SEO,Premium Shoppers,Tier 2 City Customers,YouTube,4882.0,3729848.0,157542.14,3572305.86,22.68,Top
+TI-CMP-10468,Tira,SEO,Youth,Tier 2 City Customers,"YouTube, Instagram, Email",4942.0,3834992.0,267461.04,3567530.96,13.34,Top
+TI-CMP-4142,Tira,Social Media,Working Women,Premium Shoppers,"Email, YouTube, Facebook",4782.0,3691704.0,126101.34,3565602.66,28.28,Top
+TI-CMP-36279,Tira,Email,Working Women,Youth,"Email, Instagram",775.0,3605687.0,40935.5,3564751.5,87.08,Top
+NY-CMP-47645,Nykaa,Social Media,Working Women,Working Women,"YouTube, Google",4785.0,3641385.0,76703.55,3564681.45,46.47,Top
+TI-CMP-44290,Tira,SEO,Tier 2 City Customers,Youth,WhatsApp,4830.0,3714270.0,149633.4,3564636.6,23.82,Top
+PU-CMP-12894,Purplle,Social Media,Tier 2 City Customers,College Students,"WhatsApp, Email",5865.0,3689085.0,125335.05,3563749.95,28.43,Top
+PU-CMP-FILL94411,Purplle,Paid Ads,Premium Shoppers,Tier 2 City Customers,"WhatsApp, Email",772.0,3553809.0,22048.32,3531760.68,160.18,Top
+PU-CMP-26973,Purplle,Social Media,Premium Shoppers,College Students,"WhatsApp, YouTube",5799.0,3589581.0,66572.52,3523008.48,52.92,Top
+NY-CMP-11031,Nykaa,Paid Ads,Youth,Premium Shoppers,"Google, WhatsApp, Email",5374.0,3681190.0,160360.16,3520829.84,21.96,Top
+NY-CMP-17180,Nykaa,Email,Youth,Working Women,"Email, YouTube",4696.0,3644096.0,138813.75999999998,3505282.24,25.25,Top
+TI-CMP-45566,Tira,Email,Working Women,Tier 2 City Customers,"Email, YouTube",4802.0,3577490.0,73998.82,3503491.18,47.35,Top
+PU-CMP-45235,Purplle,Social Media,Premium Shoppers,Premium Shoppers,"Facebook, Instagram",5401.0,3634878.0,131460.34,3503417.66,26.65,Top
+TI-CMP-19866,Tira,SEO,College Students,Working Women,"Email, Google",4881.0,3631464.0,128663.16,3502800.84,27.22,Top
+TI-CMP-3865,Tira,SEO,Youth,Youth,"Instagram, Email",5350.0,3589850.0,91110.5,3498739.5,38.4,Top
+PU-CMP-42445,Purplle,Social Media,Working Women,Tier 2 City Customers,"Instagram, YouTube, Google",4976.0,3697168.0,201030.4,3496137.6,17.39,Top
+TI-CMP-1871,Tira,SEO,Working Women,Tier 2 City Customers,"Email, Google, YouTube",5049.0,3726162.0,235384.38,3490777.62,14.83,Top
+NY-CMP-20351,Nykaa,Paid Ads,Tier 2 City Customers,Working Women,"Google, Instagram",5213.0,3763786.0,288226.77,3475559.23,12.06,Top
+NY-CMP-25537,Nykaa,Paid Ads,Tier 2 City Customers,Tier 2 City Customers,"Email, Facebook, Google",5191.0,3612936.0,139222.62,3473713.38,24.95,Top
+NY-CMP-12712,Nykaa,Influencer,Working Women,Working Women,"Instagram, Email, WhatsApp",4919.0,3689250.0,218206.84,3471043.16,15.91,Top
+NY-CMP-47907,Nykaa,Email,Working Women,Working Women,Facebook,4812.0,3580128.0,111109.08,3469018.92,31.22,Top
+PU-CMP-35343,Purplle,Social Media,Premium Shoppers,Working Women,Unknown,4724.0,3646928.0,194439.84,3452488.16,17.76,Top
+NY-CMP-16942,Nykaa,Influencer,Working Women,Tier 2 City Customers,"Email, Google",4577.0,3661600.0,211869.33,3449730.67,16.28,Top
+NY-CMP-49361,Nykaa,Email,Working Women,Youth,Instagram,5510.0,3559460.0,110640.8,3448819.2,31.17,Top
+TI-CMP-18888,Tira,Email,Working Women,Working Women,Unknown,4601.0,3676199.0,241736.54,3434462.46,14.21,Top
+TI-CMP-40296,Tira,SEO,Premium Shoppers,College Students,"Facebook, Google",5678.0,3696378.0,265219.38,3431158.62,12.94,Top
+TI-CMP-14232,Tira,Influencer,Working Women,Working Women,Email,4617.0,3587409.0,158363.09999999998,3429045.9,21.65,Top
+PU-CMP-13904,Purplle,Influencer,Premium Shoppers,College Students,"YouTube, WhatsApp",6221.0,3713937.0,287036.94,3426900.06,11.94,Top
+NY-CMP-20754,Nykaa,Paid Ads,Youth,Working Women,YouTube,5790.0,3653490.0,228531.3,3424958.7,14.99,Top
+TI-CMP-27429,Tira,Paid Ads,Youth,Youth,Email,4594.0,3496034.0,72860.84,3423173.16,46.98,Top
+NY-CMP-14325,Nykaa,Paid Ads,Working Women,Premium Shoppers,"YouTube, Google, Email",4582.0,3633526.0,212009.14,3421516.86,16.14,Top
+NY-CMP-17219,Nykaa,Social Media,Premium Shoppers,Tier 2 City Customers,"YouTube, WhatsApp",5042.0,3634668.0,218167.34000000003,3416500.66,15.66,Top
+PU-CMP-41973,Purplle,Paid Ads,Working Women,Tier 2 City Customers,Instagram,5114.0,3467292.0,51088.86,3416203.14,66.87,Top
+TI-CMP-44596,Tira,Email,Working Women,College Students,Email,4490.0,3565060.0,149786.4,3415273.6,22.8,Top
+NY-CMP-8710,Nykaa,Influencer,Premium Shoppers,College Students,WhatsApp,5217.0,3568428.0,158909.82,3409518.18,21.46,Top
+PU-CMP-36412,Purplle,Influencer,Premium Shoppers,College Students,"Facebook, YouTube, Google",772.0,3569337.0,161973.32,3407363.68,21.04,Top
+TI-CMP-54184,Tira,Influencer,Tier 2 City Customers,College Students,Google,4919.0,3472814.0,65471.89,3407342.11,52.04,Top
+PU-CMP-14078,Purplle,Paid Ads,Youth,Youth,"Instagram, WhatsApp",4633.0,3627639.0,220994.1,3406644.9,15.42,Top
+PU-CMP-31829,Purplle,Email,Tier 2 City Customers,Premium Shoppers,WhatsApp,4608.0,3658752.0,254269.44,3404482.56,13.39,Top
+TI-CMP-23025,Tira,Email,Premium Shoppers,Premium Shoppers,"Email, Instagram, Google",5021.0,3660309.0,256924.57,3403384.43,13.25,Top
+PU-CMP-FILL79933,Purplle,Social Media,Tier 2 City Customers,Working Women,"WhatsApp, YouTube",4703.0,3480220.0,81173.78000000001,3399046.22,41.87,Top
+PU-CMP-17762,Purplle,Social Media,Working Women,College Students,"WhatsApp, Email, Google",5376.0,3499776.0,103219.2,3396556.8,32.91,Top
+NY-CMP-33011,Nykaa,SEO,Working Women,Youth,"Google, WhatsApp",4527.0,3467682.0,74152.26,3393529.74,45.76,Top
+NY-CMP-42541,Nykaa,Social Media,College Students,Youth,"WhatsApp, Instagram",5278.0,3594318.0,202939.1,3391378.9,16.71,Top
+TI-CMP-26567,Tira,Paid Ads,Working Women,Working Women,"YouTube, Instagram, Facebook",4735.0,3650685.0,271315.5,3379369.5,12.46,Top
+NY-CMP-55909,Nykaa,Influencer,Working Women,College Students,"YouTube, Facebook",4554.0,3488364.0,110707.74,3377656.26,30.51,Top
+NY-CMP-53985,Nykaa,Paid Ads,Premium Shoppers,Tier 2 City Customers,Google,4705.0,3636965.0,260092.4,3376872.6,12.98,Top
+PU-CMP-21692,Purplle,Social Media,Working Women,Youth,Unknown,5021.0,3559889.0,183517.55,3376371.45,18.4,Top
+PU-CMP-42842,Purplle,Email,Working Women,Tier 2 City Customers,Facebook,5532.0,3523884.0,153734.28,3370149.72,21.92,Top
+NY-CMP-45241,Nykaa,Influencer,Premium Shoppers,Youth,"WhatsApp, Facebook",5095.0,3454410.0,84780.8,3369629.2,39.75,Top
+TI-CMP-18837,Tira,Paid Ads,Youth,College Students,"Instagram, WhatsApp, Facebook",4934.0,3458734.0,90834.94,3367899.06,37.08,Top
+PU-CMP-46929,Purplle,Email,Premium Shoppers,Working Women,"Email, YouTube, Facebook",4654.0,3429998.0,67064.14,3362933.86,50.15,Top
+PU-CMP-5064,Purplle,SEO,College Students,Youth,"Email, YouTube",5014.0,3600052.0,237563.32,3362488.68,14.15,Top
+NY-CMP-14545,Nykaa,Paid Ads,Tier 2 City Customers,Youth,WhatsApp,4498.0,3445412.0,83707.78,3361704.22,40.16,Top
+PU-CMP-29302,Purplle,SEO,Tier 2 City Customers,Youth,"Facebook, YouTube, Email",4471.0,3420315.0,59866.69,3360448.31,56.13,Top
+NY-CMP-55921,Nykaa,SEO,Premium Shoppers,Tier 2 City Customers,"Instagram, YouTube",4605.0,3430725.0,72390.6,3358334.4,46.39,Top
+NY-CMP-28736,Nykaa,Paid Ads,Youth,Youth,Unknown,5028.0,3549768.0,192170.16,3357597.84,17.47,Top
+NY-CMP-4891,Nykaa,Influencer,Premium Shoppers,Premium Shoppers,"WhatsApp, Email",4420.0,3474120.0,121815.2,3352304.8,27.52,Top
+PU-CMP-FILL100126,Purplle,Social Media,Youth,Youth,"Instagram, WhatsApp",4656.0,3422160.0,73052.64,3349107.36,45.85,Top
+TI-CMP-32477,Tira,Social Media,Premium Shoppers,Working Women,"Facebook, Google",5504.0,3577600.0,230342.4,3347257.6,14.53,Top
+PU-CMP-12046,Purplle,Influencer,College Students,Premium Shoppers,YouTube,4549.0,3611906.0,265206.7,3346699.3,12.62,Top
+TI-CMP-9758,Tira,Email,Tier 2 City Customers,Youth,"WhatsApp, Instagram",4542.0,3392874.0,51551.7,3341322.3,64.81,Top
+TI-CMP-45867,Tira,Social Media,Working Women,College Students,Instagram,4300.0,3418500.0,77228.0,3341272.0,43.27,Top
+PU-CMP-37982,Purplle,Paid Ads,Premium Shoppers,Youth,"YouTube, Email",4390.0,3423076.0,82883.2,3340192.8,40.3,Top
+TI-CMP-37575,Tira,Influencer,Premium Shoppers,Tier 2 City Customers,Facebook,5222.0,3577070.0,243501.86,3333568.14,13.69,Top
+PU-CMP-24191,Purplle,Influencer,College Students,Tier 2 City Customers,Email,4318.0,3389630.0,59588.4,3330041.6,55.88,Top
+PU-CMP-20823,Purplle,Email,Working Women,Premium Shoppers,"Google, Email",5062.0,3492780.0,163198.88,3329581.12,20.4,Top
+TI-CMP-47795,Tira,Social Media,Working Women,Premium Shoppers,"Google, Facebook",4452.0,3436944.0,107515.8,3329428.2,30.97,Top
+PU-CMP-56439,Purplle,Paid Ads,Tier 2 City Customers,Youth,"Email, WhatsApp, YouTube",4641.0,3392571.0,65252.46,3327318.54,50.99,Top
+NY-CMP-39071,Nykaa,SEO,College Students,Premium Shoppers,"YouTube, Instagram, Facebook",4761.0,3475530.0,163207.08000000002,3312322.92,20.3,Top
+NY-CMP-26356,Nykaa,Paid Ads,Premium Shoppers,Youth,Facebook,4764.0,3363384.0,51641.76,3311742.24,64.13,Top
+TI-CMP-27788,Tira,Influencer,Working Women,Tier 2 City Customers,"Instagram, Google, Email",4500.0,3370500.0,60345.0,3310155.0,54.85,Top
+TI-CMP-10714,Tira,Paid Ads,Working Women,Working Women,"Email, YouTube, WhatsApp",4751.0,3587005.0,278361.09,3308643.91,11.89,Top
+TI-CMP-15639,Tira,Paid Ads,Youth,Premium Shoppers,Google,4442.0,3526948.0,222721.88,3304226.12,14.84,Top
+PU-CMP-40085,Purplle,Paid Ads,Youth,Youth,"Email, Facebook",5092.0,3533848.0,230056.56,3303791.44,14.36,Top
+TI-CMP-38935,Tira,Paid Ads,College Students,Premium Shoppers,Unknown,5083.0,3517436.0,215468.37,3301967.63,15.32,Top
+TI-CMP-40546,Tira,Influencer,Working Women,Youth,Instagram,4688.0,3361296.0,62350.4,3298945.6,52.91,Top
+PU-CMP-45518,Purplle,Email,Tier 2 City Customers,Youth,"Facebook, Email, Instagram",4667.0,3360240.0,63471.2,3296768.8,51.94,Top
+NY-CMP-4092,Nykaa,Social Media,Working Women,Premium Shoppers,YouTube,4980.0,3381420.0,90785.4,3290634.6,36.25,Top
+PU-CMP-5869,Purplle,Email,Working Women,Working Women,"YouTube, Email",5313.0,3347190.0,63118.44,3284071.56,52.03,Top
+TI-CMP-26717,Tira,SEO,Premium Shoppers,Premium Shoppers,"Google, WhatsApp, Facebook",4412.0,3467832.0,184156.88,3283675.12,17.83,Top
+NY-CMP-23768,Nykaa,Social Media,Premium Shoppers,Working Women,"Facebook, Email, Instagram",4797.0,3530592.0,248820.39,3281771.61,13.19,Top
+TI-CMP-52012,Tira,Email,Working Women,Premium Shoppers,Instagram,4896.0,3422304.0,140906.88,3281397.12,23.29,Top
+NY-CMP-5380,Nykaa,Email,Premium Shoppers,Working Women,"YouTube, WhatsApp, Email",4603.0,3420029.0,140069.29,3279959.71,23.42,Top
+TI-CMP-FILL161802,Tira,SEO,Premium Shoppers,Youth,Email,4959.0,3540726.0,262033.56000000003,3278692.44,12.51,Top
+PU-CMP-31862,Purplle,Influencer,Youth,College Students,"YouTube, Instagram, Google",5171.0,3480083.0,204047.66,3276035.34,16.06,Top
+PU-CMP-6525,Purplle,SEO,Tier 2 City Customers,College Students,Email,4310.0,3370909.0,95035.5,3275873.5,34.47,Top
+PU-CMP-12172,Purplle,Email,Tier 2 City Customers,Youth,"YouTube, Email",4360.0,3448760.0,176885.2,3271874.8,18.5,Top
+NY-CMP-11458,Nykaa,Social Media,Premium Shoppers,Working Women,WhatsApp,4535.0,3405785.0,144938.6,3260846.4,22.5,Top
+TI-CMP-42020,Tira,Email,Tier 2 City Customers,College Students,Google,4727.0,3318354.0,60883.76,3257470.24,53.5,Top
+PU-CMP-3824,Purplle,SEO,College Students,Tier 2 City Customers,Instagram,4663.0,3436631.0,182603.08,3254027.92,17.82,Top
+TI-CMP-47976,Tira,Email,Premium Shoppers,Working Women,"Facebook, Instagram, Email",4579.0,3498356.0,246167.04,3252188.96,13.21,Top
+NY-CMP-1298,Nykaa,Email,Premium Shoppers,Youth,Google,4987.0,3520822.0,269198.26,3251623.74,12.08,Top
+PU-CMP-2077,Purplle,SEO,Premium Shoppers,Youth,Email,4577.0,3492251.0,246654.53,3245596.47,13.16,Top
+PU-CMP-13635,Purplle,Social Media,College Students,Tier 2 City Customers,YouTube,4804.0,3439664.0,194754.16,3244909.84,16.66,Top
+NY-CMP-5330,Nykaa,Influencer,College Students,Youth,"YouTube, Instagram, Google",4601.0,3529819.0,285584.07,3244234.93,11.36,Top
+PU-CMP-23714,Purplle,Influencer,Premium Shoppers,Premium Shoppers,"Google, Facebook, Email",5975.0,3387825.0,143698.75,3244126.25,22.58,Top
+TI-CMP-56308,Tira,Influencer,Premium Shoppers,Working Women,"YouTube, WhatsApp, Facebook",4851.0,3410253.0,167310.99000000002,3242942.01,19.38,Top
+PU-CMP-48778,Purplle,SEO,Working Women,College Students,"YouTube, Instagram, WhatsApp",4755.0,3294667.0,53208.45,3241458.55,60.92,Top
+PU-CMP-27586,Purplle,Paid Ads,Tier 2 City Customers,College Students,"Facebook, Instagram",5073.0,3480078.0,240308.01,3239769.99,13.48,Top
+TI-CMP-51404,Tira,Paid Ads,College Students,Youth,Email,4683.0,3493518.0,254474.22000000003,3239043.78,12.73,Top
+PU-CMP-3132,Purplle,Paid Ads,Tier 2 City Customers,Youth,"Instagram, Google, YouTube",5043.0,3464541.0,227388.87,3237152.13,14.24,Top
+NY-CMP-52905,Nykaa,SEO,Working Women,Premium Shoppers,Google,4489.0,3389195.0,152356.66,3236838.34,21.25,Top
+PU-CMP-19452,Purplle,SEO,Premium Shoppers,Tier 2 City Customers,"WhatsApp, Google",4910.0,3338800.0,104337.5,3234462.5,31.0,Top
+PU-CMP-30181,Purplle,SEO,College Students,Premium Shoppers,WhatsApp,4952.0,3278224.0,50460.88,3227763.12,63.97,Top
+NY-CMP-8444,Nykaa,Influencer,College Students,Youth,"Instagram, Google",4419.0,3420306.0,195010.47,3225295.53,16.54,Top
+NY-CMP-14063,Nykaa,SEO,Youth,Youth,"YouTube, Google, Facebook",6277.0,3414688.0,193394.37,3221293.63,16.66,Top
+PU-CMP-50713,Purplle,SEO,College Students,Working Women,Google,4553.0,3355561.0,135269.63,3220291.37,23.81,Top
+NY-CMP-35001,Nykaa,Influencer,Premium Shoppers,Youth,Unknown,4464.0,3508704.0,291454.56000000006,3217249.44,11.04,Top
+NY-CMP-39096,Nykaa,Paid Ads,Youth,Youth,Facebook,5021.0,3494616.0,278866.34,3215749.66,11.53,Top
+PU-CMP-19900,Purplle,SEO,Working Women,Tier 2 City Customers,Email,4473.0,3444210.0,231388.29,3212821.71,13.88,Top
+TI-CMP-10565,Tira,Influencer,Youth,Tier 2 City Customers,"YouTube, Google, Instagram",775.0,3261117.0,48732.0,3212385.0,65.92,Top
+TI-CMP-49247,Tira,SEO,Tier 2 City Customers,College Students,"Facebook, Instagram, YouTube",4263.0,3295299.0,87604.65000000001,3207694.35,36.62,Top
+NY-CMP-21326,Nykaa,Social Media,Youth,Tier 2 City Customers,"YouTube, Google, WhatsApp",4324.0,3359748.0,154064.12000000002,3205683.88,20.81,Top
+TI-CMP-41727,Tira,Influencer,Premium Shoppers,Working Women,Instagram,775.0,3211168.0,10501.25,3200666.75,304.79,Top
+PU-CMP-30494,Purplle,Email,Youth,Tier 2 City Customers,"Email, Facebook",5169.0,3473568.0,273336.72000000003,3200231.28,11.71,Top
+TI-CMP-13721,Tira,Influencer,College Students,Premium Shoppers,"WhatsApp, Email, Google",5863.0,3353636.0,154431.42,3199204.58,20.72,Top
+TI-CMP-52705,Tira,Influencer,Premium Shoppers,Tier 2 City Customers,"Email, WhatsApp",5520.0,3267840.0,68668.8,3199171.2,46.59,Top
+NY-CMP-44080,Nykaa,Social Media,Tier 2 City Customers,Working Women,"Google, WhatsApp, Instagram",778.0,3213354.0,17621.699999999997,3195732.3,181.35,Top
+PU-CMP-54396,Purplle,SEO,Youth,Youth,"Facebook, Google",4558.0,3254412.0,64769.18,3189642.82,49.25,Top
+NY-CMP-41594,Nykaa,Email,Tier 2 City Customers,Working Women,Email,4471.0,3286185.0,96797.15,3189387.85,32.95,Top
+TI-CMP-21991,Tira,Influencer,Youth,Tier 2 City Customers,Unknown,5478.0,3456618.0,271434.9,3185183.1,11.73,Top
+NY-CMP-12119,Nykaa,Paid Ads,Premium Shoppers,Tier 2 City Customers,Email,4337.0,3348164.0,164415.66999999998,3183748.33,19.36,Top
+PU-CMP-49791,Purplle,Paid Ads,Working Women,Premium Shoppers,"Instagram, Facebook, WhatsApp",5243.0,3481352.0,297959.69,3183392.31,10.68,Top
+PU-CMP-9809,Purplle,Paid Ads,Premium Shoppers,College Students,"Instagram, YouTube",4160.0,3253120.0,70096.0,3183024.0,45.41,Top
+NY-CMP-8168,Nykaa,Social Media,College Students,Tier 2 City Customers,"Google, Email",4705.0,3255860.0,72880.45,3182979.55,43.67,Top
+TI-CMP-49326,Tira,Influencer,College Students,Premium Shoppers,"Instagram, WhatsApp",775.0,3223432.0,40617.75,3182814.25,78.36,Top
+TI-CMP-19647,Tira,Paid Ads,Tier 2 City Customers,College Students,Facebook,4497.0,3305295.0,133560.9,3171734.1,23.75,Top
+TI-CMP-22089,Tira,Email,Tier 2 City Customers,Tier 2 City Customers,Google,4621.0,3345604.0,174720.01,3170883.99,18.15,Top
+NY-CMP-30417,Nykaa,Social Media,Working Women,Working Women,Facebook,4345.0,3415170.0,246404.95,3168765.05,12.86,Top
+PU-CMP-1006,Purplle,SEO,Youth,Working Women,"Google, Facebook",4300.0,3427100.0,259634.0,3167466.0,12.2,Top
+PU-CMP-16122,Purplle,Email,Youth,College Students,"WhatsApp, YouTube",4668.0,3272268.0,113899.2,3158368.8,27.73,Top
+PU-CMP-23124,Purplle,Email,Premium Shoppers,Working Women,"WhatsApp, Google, YouTube",4275.0,3274650.0,125385.75,3149264.25,25.12,Top
+TI-CMP-49142,Tira,SEO,Youth,College Students,"WhatsApp, Facebook",4638.0,3320808.0,172301.69999999998,3148506.3,18.27,Top
+PU-CMP-35180,Purplle,Influencer,Premium Shoppers,Premium Shoppers,Email,5285.0,3266130.0,119123.9,3147006.1,26.42,Top
+NY-CMP-42849,Nykaa,Paid Ads,Working Women,Working Women,"Google, Facebook, WhatsApp",4121.0,3243227.0,101541.44,3141685.56,30.94,Top
+TI-CMP-34539,Tira,Influencer,Working Women,Premium Shoppers,Facebook,4355.0,3353350.0,212611.1,3140738.9,14.77,Top
+TI-CMP-1314,Tira,Email,Premium Shoppers,Youth,"Email, YouTube, Facebook",4425.0,3216975.0,87216.75,3129758.25,35.88,Top
+TI-CMP-10235,Tira,Email,College Students,Tier 2 City Customers,"WhatsApp, Facebook, Google",4350.0,3210300.0,82389.0,3127911.0,37.97,Top
+PU-CMP-24571,Purplle,Influencer,Premium Shoppers,Working Women,"Instagram, Email, Facebook",772.0,3149760.0,23075.08,3126684.92,135.5,Top
+PU-CMP-9584,Purplle,Influencer,College Students,Premium Shoppers,WhatsApp,4299.0,3336024.0,209834.19,3126189.81,14.9,Top
+PU-CMP-50327,Purplle,Email,Tier 2 City Customers,Premium Shoppers,"WhatsApp, Instagram, Email",4969.0,3408734.0,283928.66,3124805.34,11.01,Top
+TI-CMP-13888,Tira,Paid Ads,Premium Shoppers,College Students,"Google, Email",4802.0,3274964.0,151935.28,3123028.72,20.55,Top
+NY-CMP-14787,Nykaa,SEO,Premium Shoppers,College Students,"Google, Instagram",4329.0,3277053.0,154848.33000000002,3122204.67,20.16,Top
+PU-CMP-4263,Purplle,Influencer,Tier 2 City Customers,Tier 2 City Customers,"Google, YouTube, Instagram",4671.0,3279042.0,159421.23,3119620.77,19.57,Top
+PU-CMP-25925,Purplle,Social Media,Premium Shoppers,Youth,"Email, Google, Facebook",4643.0,3208313.0,90352.78,3117960.22,34.51,Top
+NY-CMP-19179,Nykaa,Influencer,Premium Shoppers,Youth,Google,778.0,3148363.0,31625.7,3116737.3,98.55,Top
+NY-CMP-39329,Nykaa,Paid Ads,Youth,Working Women,"Google, Facebook, YouTube",4352.0,3168256.0,52267.52,3115988.48,59.62,Top
+TI-CMP-33629,Tira,Email,Working Women,Tier 2 City Customers,"WhatsApp, Instagram",6313.0,3333264.0,217861.63,3115402.37,14.3,Top
+TI-CMP-42285,Tira,Email,Youth,Tier 2 City Customers,WhatsApp,4338.0,3283866.0,168574.68,3115291.32,18.48,Top
+NY-CMP-15957,Nykaa,Paid Ads,Premium Shoppers,Premium Shoppers,Email,5392.0,3364608.0,249649.6,3114958.4,12.48,Top
+TI-CMP-33015,Tira,Social Media,Youth,Tier 2 City Customers,"Google, YouTube",4902.0,3308850.0,194315.28,3114534.72,16.03,Top
+NY-CMP-37693,Nykaa,Social Media,College Students,Working Women,Unknown,4122.0,3198672.0,90807.66,3107864.34,34.22,Top
+TI-CMP-30299,Tira,SEO,Working Women,Youth,"YouTube, Instagram",775.0,3129061.0,26102.0,3102959.0,118.88,Top
+PU-CMP-28537,Purplle,Social Media,Premium Shoppers,Working Women,"Email, Google",4619.0,3367251.0,265823.45,3101427.55,11.67,Top
+TI-CMP-26586,Tira,SEO,Working Women,Premium Shoppers,"WhatsApp, YouTube",4136.0,3271576.0,170237.75999999998,3101338.24,18.22,Top
+PU-CMP-44261,Purplle,SEO,Working Women,Premium Shoppers,"Facebook, WhatsApp, Google",4395.0,3335805.0,235615.95,3100189.05,13.16,Top
+NY-CMP-37187,Nykaa,Paid Ads,Premium Shoppers,Youth,Facebook,4493.0,3293369.0,195175.92,3098193.08,15.87,Top
+TI-CMP-35211,Tira,SEO,Youth,Premium Shoppers,"Instagram, Google",4649.0,3207810.0,114504.87,3093305.13,27.01,Top
+TI-CMP-42224,Tira,Paid Ads,Working Women,Working Women,"Google, Email, YouTube",4299.0,3155466.0,62808.39,3092657.61,49.24,Top
+PU-CMP-4682,Purplle,Influencer,Premium Shoppers,College Students,"Facebook, Google",4567.0,3370446.0,280459.47,3089986.5300000003,11.02,Top
+NY-CMP-54313,Nykaa,Influencer,Tier 2 City Customers,Youth,"YouTube, Instagram",4013.0,3202374.0,112564.65,3089809.35,27.45,Top
+NY-CMP-24042,Nykaa,Social Media,Tier 2 City Customers,Premium Shoppers,"Facebook, Google, WhatsApp",4287.0,3146658.0,58860.51,3087797.49,52.46,Top
+PU-CMP-48560,Purplle,Social Media,College Students,Tier 2 City Customers,"Google, WhatsApp, Instagram",4699.0,3364484.0,277804.88,3086679.12,11.11,Top
+NY-CMP-48626,Nykaa,SEO,Working Women,Youth,"YouTube, Google, Email",4245.0,3171015.0,84433.05,3086581.95,36.56,Top
+PU-CMP-19519,Purplle,Paid Ads,College Students,Youth,"Email, Facebook",4831.0,3304404.0,221936.14,3082467.86,13.89,Top
+TI-CMP-35768,Tira,Email,Youth,Premium Shoppers,YouTube,4326.0,3270456.0,188873.16,3081582.84,16.32,Top
+NY-CMP-3003,Nykaa,Paid Ads,Tier 2 City Customers,Youth,Instagram,4502.0,3362994.0,281600.1,3081393.9,10.94,Top
+NY-CMP-11034,Nykaa,Social Media,Youth,Premium Shoppers,Google,4939.0,3343703.0,264878.57,3078824.43,11.62,Top
+NY-CMP-18788,Nykaa,Email,Tier 2 City Customers,Premium Shoppers,Email,4373.0,3196663.0,118989.33,3077673.67,25.87,Top
+NY-CMP-4505,Nykaa,Influencer,Working Women,Premium Shoppers,"WhatsApp, Google",4232.0,3216320.0,140756.31999999998,3075563.68,21.85,Top
+NY-CMP-34506,Nykaa,SEO,College Students,Working Women,"Instagram, Google, WhatsApp",4637.0,3329366.0,254293.08,3075072.92,12.09,Top
+PU-CMP-6005,Purplle,Social Media,Tier 2 City Customers,Premium Shoppers,Google,4736.0,3182592.0,110064.64,3072527.36,27.92,Top
+PU-CMP-7252,Purplle,Paid Ads,Tier 2 City Customers,Youth,"WhatsApp, Facebook",4964.0,3226600.0,154430.04,3072169.96,19.89,Top
+TI-CMP-17794,Tira,SEO,Working Women,Working Women,"Google, Facebook",5170.0,3344990.0,272820.9,3072169.1,11.26,Top
+NY-CMP-32357,Nykaa,SEO,Youth,Working Women,"Google, Instagram, Email",4511.0,3193788.0,122338.32,3071449.68,25.11,Top
+NY-CMP-14035,Nykaa,Paid Ads,College Students,Tier 2 City Customers,Google,4307.0,3213022.0,141657.23,3071364.77,21.68,Top
+NY-CMP-2174,Nykaa,Influencer,College Students,College Students,WhatsApp,4050.0,3126600.0,55566.0,3071034.0,55.27,Top
+PU-CMP-4984,Purplle,SEO,Working Women,Youth,"Email, YouTube, Google",5495.0,3220070.0,152706.05,3067363.95,20.09,Top
+TI-CMP-33923,Tira,SEO,Working Women,Youth,"Facebook, Google, YouTube",5468.0,3133164.0,66053.44,3067110.56,46.43,Top
+PU-CMP-25862,Purplle,Social Media,Tier 2 City Customers,College Students,"Email, Instagram, Facebook",4828.0,3268556.0,202148.36,3066407.64,15.17,Top
+NY-CMP-34505,Nykaa,SEO,Tier 2 City Customers,Youth,"Facebook, WhatsApp, Email",4448.0,3251488.0,191931.2,3059556.8,15.94,Top
+TI-CMP-34962,Tira,Paid Ads,Premium Shoppers,Working Women,"Email, WhatsApp, YouTube",4502.0,3245942.0,187013.08,3058928.92,16.36,Top
+NY-CMP-9994,Nykaa,SEO,Youth,Tier 2 City Customers,"YouTube, WhatsApp",4364.0,3294820.0,236179.68,3058640.32,12.95,Top
+NY-CMP-42371,Nykaa,Social Media,Premium Shoppers,Premium Shoppers,"Facebook, Google, Email",4765.0,3168725.0,110881.55,3057843.45,27.58,Top
+TI-CMP-FILL111358,Tira,SEO,Premium Shoppers,Youth,"WhatsApp, Email, YouTube",4828.0,3263728.0,206928.08,3056799.92,14.77,Top
+TI-CMP-54021,Tira,Social Media,College Students,Tier 2 City Customers,Facebook,4639.0,3108130.0,51446.51,3056683.49,59.41,Top
+PU-CMP-32229,Purplle,SEO,Premium Shoppers,Working Women,YouTube,4452.0,3169824.0,117043.08,3052780.92,26.08,Top
+TI-CMP-31654,Tira,Paid Ads,Working Women,Tier 2 City Customers,"YouTube, Google, Facebook",4993.0,3125618.0,74295.84000000001,3051322.16,41.07,Top
+TI-CMP-15181,Tira,Influencer,Working Women,Youth,"Facebook, Google, WhatsApp",4312.0,3186568.0,135439.92,3051128.08,22.53,Top
+NY-CMP-18851,Nykaa,Paid Ads,Tier 2 City Customers,Working Women,"YouTube, Facebook, Google",4233.0,3344070.0,293008.26,3051061.74,10.41,Top
+TI-CMP-4067,Tira,Paid Ads,College Students,College Students,YouTube,5224.0,3259776.0,209795.84,3049980.16,14.54,Top
+NY-CMP-47377,Nykaa,SEO,Youth,Tier 2 City Customers,Instagram,4242.0,3211194.0,161365.68,3049828.32,18.9,Top
+PU-CMP-43382,Purplle,Paid Ads,Youth,Working Women,WhatsApp,4097.0,3265309.0,215666.08,3049642.92,14.14,Top
+PU-CMP-38786,Purplle,Social Media,Tier 2 City Customers,College Students,Facebook,4824.0,3299616.0,252681.12,3046934.88,12.06,Top
+TI-CMP-19902,Tira,Paid Ads,Youth,Working Women,Unknown,4411.0,3330305.0,284597.72,3045707.2800000003,10.7,Top
+NY-CMP-34541,Nykaa,Influencer,Tier 2 City Customers,Youth,Google,4756.0,3191276.0,147959.16,3043316.84,20.57,Top
+NY-CMP-45462,Nykaa,Email,Working Women,College Students,"Google, Instagram, Email",5170.0,3288120.0,245109.7,3043010.3,12.41,Top
+NY-CMP-47825,Nykaa,SEO,College Students,Tier 2 City Customers,YouTube,4316.0,3262896.0,221756.08,3041139.92,13.71,Top
+TI-CMP-8998,Tira,Social Media,Premium Shoppers,Youth,Google,5283.0,3249045.0,208572.84,3040472.16,14.58,Top
+TI-CMP-FILL139307,Tira,Paid Ads,Working Women,Tier 2 City Customers,Email,4119.0,3286962.0,247634.28,3039327.72,12.27,Top
+PU-CMP-39205,Purplle,Social Media,Working Women,Working Women,"Email, Instagram, Google",772.0,3069810.0,32987.56,3036822.44,92.06,Top
+NY-CMP-31422,Nykaa,Social Media,Tier 2 City Customers,Working Women,"WhatsApp, Instagram",5282.0,3153354.0,117524.5,3035829.5,25.83,Top
+NY-CMP-17818,Nykaa,Influencer,Youth,Tier 2 City Customers,"Google, YouTube, Facebook",4561.0,3261115.0,228186.83,3032928.17,13.29,Top
+PU-CMP-FILL81472,Purplle,Paid Ads,Premium Shoppers,Youth,Google,4285.0,3119480.0,87842.5,3031637.5,34.51,Top
+PU-CMP-55470,Purplle,Paid Ads,Youth,Working Women,Facebook,772.0,3079336.0,48682.32,3030653.68,62.25,Top
+TI-CMP-2644,Tira,Influencer,Working Women,Tier 2 City Customers,"Instagram, YouTube",3973.0,3094967.0,66229.91,3028737.09,45.73,Top
+TI-CMP-27466,Tira,Email,Working Women,Premium Shoppers,"Instagram, WhatsApp",4046.0,3212524.0,184012.08,3028511.92,16.46,Top
+TI-CMP-50774,Tira,Influencer,Working Women,College Students,Google,775.0,3063764.0,38509.75,3025254.25,78.56,Top
+NY-CMP-45323,Nykaa,Influencer,Youth,Tier 2 City Customers,Email,5450.0,3171900.0,150093.0,3021807.0,20.13,Top
+PU-CMP-2874,Purplle,Social Media,Premium Shoppers,Youth,"Email, Instagram",3974.0,3143434.0,125737.36,3017696.64,24.0,Top
+NY-CMP-52833,Nykaa,Paid Ads,Premium Shoppers,Working Women,"Facebook, Instagram",5047.0,3260362.0,247050.65,3013311.35,12.2,Top
+PU-CMP-26178,Purplle,Paid Ads,Youth,Tier 2 City Customers,"YouTube, Instagram",4918.0,3137684.0,125064.74,3012619.26,24.09,Top
+NY-CMP-40971,Nykaa,Paid Ads,Premium Shoppers,Premium Shoppers,WhatsApp,4780.0,3154800.0,145598.80000000002,3009201.2,20.67,Top
+TI-CMP-55348,Tira,Social Media,Youth,Tier 2 City Customers,Unknown,4114.0,3064930.0,56732.06,3008197.94,53.02,Top
+PU-CMP-36682,Purplle,SEO,Premium Shoppers,Premium Shoppers,WhatsApp,4388.0,3141808.0,136379.03999999998,3005428.96,22.04,Top
+TI-CMP-52987,Tira,Influencer,College Students,Working Women,"YouTube, Facebook, Instagram",4198.0,3211470.0,206205.76,3005264.24,14.57,Top
+NY-CMP-11756,Nykaa,Influencer,Working Women,Premium Shoppers,"Instagram, Email, WhatsApp",4705.0,3091185.0,87465.95,3003719.05,34.34,Top
+TI-CMP-22684,Tira,Paid Ads,Premium Shoppers,Youth,"Email, Instagram, YouTube",4573.0,3246830.0,244929.88,3001900.12,12.26,Top
+PU-CMP-1305,Purplle,Paid Ads,Tier 2 City Customers,Premium Shoppers,Google,4555.0,3165725.0,164708.8,3001016.2,18.22,Top
+NY-CMP-35454,Nykaa,Influencer,Premium Shoppers,Tier 2 City Customers,"YouTube, Facebook",4331.0,3256912.0,255918.79,3000993.21,11.73,Top
+TI-CMP-36694,Tira,Email,Premium Shoppers,Working Women,"Facebook, Instagram, Email",4457.0,3133271.0,133264.3,3000006.7,22.51,Top
+TI-CMP-23321,Tira,SEO,Youth,Premium Shoppers,Email,3888.0,3110400.0,114812.64,2995587.36,26.09,Top
+NY-CMP-38337,Nykaa,Email,Working Women,Working Women,"Email, Facebook, Instagram",4950.0,3222450.0,226957.5,2995492.5,13.2,Top
+PU-CMP-2430,Purplle,Influencer,College Students,Tier 2 City Customers,"Instagram, WhatsApp",4047.0,3083814.0,89074.47,2994739.53,33.62,Top
+NY-CMP-38125,Nykaa,SEO,Working Women,Tier 2 City Customers,"WhatsApp, Instagram, YouTube",5098.0,3063898.0,69281.81999999999,2994616.18,43.22,Top
+TI-CMP-47555,Tira,SEO,Youth,College Students,"WhatsApp, Google, Facebook",4412.0,3269292.0,276058.84,2993233.16,10.84,Top
+PU-CMP-30219,Purplle,Email,Youth,Working Women,Facebook,4368.0,3075072.0,87360.0,2987712.0,34.2,Top
+NY-CMP-27792,Nykaa,Influencer,Tier 2 City Customers,Working Women,"WhatsApp, Instagram",778.0,2999960.0,12953.7,2987006.3,230.59,Top
+TI-CMP-43050,Tira,Influencer,College Students,Tier 2 City Customers,"Email, Instagram, WhatsApp",775.0,3010410.0,23746.0,2986664.0,125.78,Top
+NY-CMP-31624,Nykaa,Influencer,Working Women,Working Women,WhatsApp,3918.0,3130482.0,143829.78,2986652.22,20.77,Top
+NY-CMP-3383,Nykaa,SEO,Working Women,Youth,"WhatsApp, Instagram, YouTube",4050.0,3049650.0,64111.5,2985538.5,46.57,Top
+TI-CMP-51334,Tira,Email,Tier 2 City Customers,College Students,Email,4167.0,3104415.0,122759.82,2981655.18,24.29,Top
+NY-CMP-5736,Nykaa,Email,College Students,Tier 2 City Customers,WhatsApp,5633.0,3036187.0,55485.05,2980701.95,53.72,Top
+NY-CMP-12866,Nykaa,Email,Premium Shoppers,Youth,"YouTube, Instagram",4026.0,3055734.0,75568.02,2980165.98,39.44,Top
+TI-CMP-42388,Tira,Influencer,College Students,Premium Shoppers,"Instagram, YouTube",4307.0,3131189.0,154018.31999999998,2977170.68,19.33,Top
+TI-CMP-32635,Tira,Social Media,College Students,College Students,"YouTube, Instagram",4028.0,3210316.0,233342.04,2976973.96,12.76,Top
+PU-CMP-45767,Purplle,SEO,Tier 2 City Customers,Working Women,"Email, Instagram, YouTube",4218.0,3259744.0,283702.68,2976041.32,10.49,Top
+TI-CMP-29383,Tira,Social Media,Premium Shoppers,College Students,"Facebook, Email",3957.0,3031062.0,57416.07,2973645.93,51.79,Top
+PU-CMP-38740,Purplle,SEO,Working Women,Premium Shoppers,"Facebook, Email, YouTube",4340.0,3033810.0,60543.0,2973267.0,49.11,Top
+TI-CMP-FILL120644,Tira,Email,Tier 2 City Customers,Premium Shoppers,Instagram,4134.0,3154242.0,181151.88,2973090.12,16.41,Top
+PU-CMP-37252,Purplle,Email,College Students,Youth,YouTube,4476.0,3195864.0,224337.12,2971526.88,13.25,Top
+TI-CMP-22443,Tira,Influencer,Tier 2 City Customers,Working Women,WhatsApp,4048.0,3031952.0,61408.16,2970543.84,48.37,Top
+TI-CMP-17978,Tira,Email,Youth,Tier 2 City Customers,"Instagram, Google, WhatsApp",3881.0,3089276.0,119690.04,2969585.96,24.81,Top
+NY-CMP-46445,Nykaa,Influencer,Working Women,Youth,"Google, Facebook",5188.0,3164680.0,195276.32,2969403.68,15.21,Top
+PU-CMP-32878,Purplle,Email,Premium Shoppers,College Students,Email,4814.0,3142915.0,176866.36000000002,2966048.64,16.77,Top
+NY-CMP-34071,Nykaa,Paid Ads,College Students,Premium Shoppers,"Google, Instagram",4400.0,3062400.0,96448.0,2965952.0,30.75,Top
+PU-CMP-55777,Purplle,Paid Ads,Tier 2 City Customers,Working Women,"WhatsApp, Instagram",4126.0,3102752.0,137849.65999999997,2964902.34,21.51,Top
+TI-CMP-20955,Tira,Influencer,Premium Shoppers,College Students,"Instagram, YouTube",4185.0,3239190.0,277549.19999999995,2961640.8,10.67,Top
+NY-CMP-34324,Nykaa,Paid Ads,Youth,Premium Shoppers,Instagram,778.0,14079.0,12038118.48,-12024039.48,-1.0,Bottom
+NY-CMP-1302,Nykaa,Influencer,Working Women,Tier 2 City Customers,YouTube,778.0,16944.0,7367527.74,-7350583.74,-1.0,Bottom
+NY-CMP-9361,Nykaa,Social Media,Premium Shoppers,College Students,"WhatsApp, Email",778.0,7584.0,5591750.5200000005,-5584166.5200000005,-1.0,Bottom
+TI-CMP-16160,Tira,Social Media,Premium Shoppers,Working Women,"Facebook, Google, YouTube",775.0,36566.0,4890924.25,-4854358.25,-0.99,Bottom
+PU-CMP-40173,Purplle,Paid Ads,College Students,Tier 2 City Customers,"Instagram, Email",772.0,25676.0,4396810.2,-4371134.2,-0.99,Bottom
+PU-CMP-25195,Purplle,Social Media,Premium Shoppers,College Students,Unknown,772.0,10650.0,4338531.92,-4327881.92,-1.0,Bottom
+NY-CMP-37993,Nykaa,Paid Ads,Youth,Youth,"Google, Email, WhatsApp",778.0,10488.0,4243250.9,-4232762.9,-1.0,Bottom
+TI-CMP-46014,Tira,Social Media,Working Women,Premium Shoppers,"Instagram, Facebook",775.0,25960.0,4202104.25,-4176144.25,-0.99,Bottom
+PU-CMP-27699,Purplle,Social Media,Premium Shoppers,Tier 2 City Customers,WhatsApp,772.0,21252.0,4166429.96,-4145177.96,-0.99,Bottom
+TI-CMP-18750,Tira,Influencer,Youth,College Students,YouTube,775.0,12760.0,3929350.75,-3916590.75,-1.0,Bottom
+TI-CMP-FILL154590,Tira,Social Media,Tier 2 City Customers,Working Women,"Facebook, Email",775.0,20748.0,3916307.5,-3895559.5,-0.99,Bottom
+TI-CMP-44627,Tira,Paid Ads,Premium Shoppers,College Students,"Instagram, Google, YouTube",775.0,17138.0,3797724.75,-3780586.75,-1.0,Bottom
+PU-CMP-25023,Purplle,Influencer,Youth,Tier 2 City Customers,"Email, YouTube, Facebook",772.0,16430.0,3700003.0,-3683573.0,-1.0,Bottom
+NY-CMP-19379,Nykaa,SEO,Working Women,Tier 2 City Customers,"YouTube, Instagram, Google",778.0,16170.0,3401252.62,-3385082.62,-1.0,Bottom
+NY-CMP-3677,Nykaa,Email,College Students,Working Women,"Facebook, YouTube, Google",778.0,32505.0,3414455.2800000003,-3381950.2800000003,-0.99,Bottom
+TI-CMP-33366,Tira,Influencer,Working Women,College Students,Facebook,775.0,14210.0,3356478.4999999995,-3342268.4999999995,-1.0,Bottom
+NY-CMP-18991,Nykaa,Social Media,Youth,Tier 2 City Customers,"Email, Facebook",778.0,31430.0,3333932.2800000003,-3302502.2800000003,-0.99,Bottom
+TI-CMP-12628,Tira,SEO,Working Women,Premium Shoppers,"Google, Instagram, YouTube",775.0,34162.0,3264075.25,-3229913.25,-0.99,Bottom
+NY-CMP-3095,Nykaa,Email,Tier 2 City Customers,Working Women,Instagram,778.0,19872.0,3223775.26,-3203903.26,-0.99,Bottom
+PU-CMP-FILL92684,Purplle,SEO,Premium Shoppers,College Students,Facebook,772.0,55334.0,3168573.64,-3113239.64,-0.98,Bottom
+NY-CMP-49298,Nykaa,SEO,Working Women,Youth,Email,778.0,29636.0,3108296.72,-3078660.72,-0.99,Bottom
+TI-CMP-6389,Tira,Influencer,College Students,Youth,Email,775.0,19240.0,3031769.0,-3012529.0,-0.99,Bottom
+PU-CMP-28022,Purplle,Social Media,College Students,Youth,WhatsApp,772.0,25260.0,3027884.36,-3002624.36,-0.99,Bottom
+NY-CMP-46373,Nykaa,SEO,Tier 2 City Customers,Youth,"YouTube, Instagram, WhatsApp",778.0,50570.0,2900710.76,-2850140.76,-0.98,Bottom
+TI-CMP-39332,Tira,Email,Premium Shoppers,College Students,Email,775.0,32504.0,2871739.25,-2839235.25,-0.99,Bottom
+TI-CMP-41257,Tira,Email,Tier 2 City Customers,College Students,"Email, WhatsApp",775.0,30503.0,2868182.0,-2837679.0,-0.99,Bottom
+PU-CMP-FILL79170,Purplle,Influencer,College Students,College Students,"Email, Facebook",772.0,34569.0,2860761.8000000003,-2826192.8000000003,-0.99,Bottom
+PU-CMP-36721,Purplle,SEO,Working Women,Premium Shoppers,Instagram,772.0,19530.0,2837254.4,-2817724.4,-0.99,Bottom
+NY-CMP-53370,Nykaa,Paid Ads,College Students,Working Women,"WhatsApp, Facebook, Google",778.0,34111.0,2826061.66,-2791950.66,-0.99,Bottom
+TI-CMP-31968,Tira,SEO,Premium Shoppers,Tier 2 City Customers,"WhatsApp, Instagram",775.0,35492.0,2804508.0,-2769016.0,-0.99,Bottom
+TI-CMP-9859,Tira,Email,College Students,Youth,"Google, WhatsApp",775.0,39931.0,2804973.0,-2765042.0,-0.99,Bottom
+TI-CMP-27871,Tira,Social Media,Premium Shoppers,Working Women,"YouTube, Email",775.0,50058.0,2795045.25,-2744987.25,-0.98,Bottom
+NY-CMP-14542,Nykaa,Social Media,Premium Shoppers,Working Women,"Google, Email",778.0,360473.0,3080483.22,-2720010.22,-0.88,Bottom
+NY-CMP-2710,Nykaa,SEO,Tier 2 City Customers,Working Women,"Google, YouTube",778.0,33120.0,2733884.22,-2700764.22,-0.99,Bottom
+NY-CMP-54675,Nykaa,Social Media,Tier 2 City Customers,Youth,Email,778.0,13578.0,2706257.44,-2692679.44,-0.99,Bottom
+TI-CMP-43304,Tira,Social Media,College Students,Tier 2 City Customers,"WhatsApp, YouTube, Google",775.0,45549.0,2702673.0,-2657124.0,-0.98,Bottom
+PU-CMP-44137,Purplle,Influencer,Working Women,College Students,Email,772.0,51211.0,2695669.6,-2644458.6,-0.98,Bottom
+PU-CMP-44501,Purplle,SEO,Tier 2 City Customers,College Students,YouTube,772.0,52880.0,2689424.12,-2636544.12,-0.98,Bottom
+PU-CMP-42277,Purplle,Email,Working Women,Youth,"Facebook, YouTube, Instagram",772.0,42883.0,2671096.84,-2628213.84,-0.98,Bottom
+TI-CMP-46602,Tira,Email,Premium Shoppers,Premium Shoppers,YouTube,775.0,35998.0,2656614.75,-2620616.75,-0.99,Bottom
+TI-CMP-54310,Tira,Social Media,Tier 2 City Customers,Youth,YouTube,775.0,42756.0,2660327.0,-2617571.0,-0.98,Bottom
+TI-CMP-3580,Tira,Social Media,Tier 2 City Customers,Youth,"Instagram, Google, Facebook",775.0,58608.0,2646121.25,-2587513.25,-0.98,Bottom
+PU-CMP-51158,Purplle,Influencer,College Students,College Students,"YouTube, WhatsApp, Google",772.0,42330.0,2583953.48,-2541623.48,-0.98,Bottom
+PU-CMP-27064,Purplle,Paid Ads,College Students,Tier 2 City Customers,"Email, Instagram, Google",772.0,53805.0,2594298.28,-2540493.28,-0.98,Bottom
+PU-CMP-2176,Purplle,SEO,Working Women,College Students,Facebook,772.0,64152.0,2585690.48,-2521538.48,-0.98,Bottom
+PU-CMP-35693,Purplle,Influencer,Youth,Premium Shoppers,"Facebook, Instagram",772.0,44004.0,2560685.4,-2516681.4,-0.98,Bottom
+TI-CMP-56083,Tira,Influencer,Tier 2 City Customers,Youth,WhatsApp,775.0,40527.0,2519579.25,-2479052.25,-0.98,Bottom
+PU-CMP-11556,Purplle,SEO,Working Women,Working Women,WhatsApp,772.0,62478.0,2508668.04,-2446190.04,-0.98,Bottom
+PU-CMP-55681,Purplle,Influencer,Youth,Tier 2 City Customers,"Email, YouTube, Google",772.0,17385.0,2400850.52,-2383465.52,-0.99,Bottom
+NY-CMP-44687,Nykaa,SEO,Premium Shoppers,Youth,"Instagram, Facebook",778.0,20664.0,2397064.68,-2376400.68,-0.99,Bottom
+NY-CMP-6006,Nykaa,Email,Tier 2 City Customers,Premium Shoppers,"Email, Instagram",778.0,360473.0,2736537.2,-2376064.2,-0.87,Bottom
+NY-CMP-43006,Nykaa,SEO,Working Women,Youth,YouTube,778.0,31239.0,2373016.7,-2341777.7,-0.99,Bottom
+NY-CMP-38839,Nykaa,Influencer,College Students,Youth,"Instagram, Google",778.0,72520.0,2374199.26,-2301679.26,-0.97,Bottom
+PU-CMP-18372,Purplle,Influencer,Tier 2 City Customers,Working Women,"Instagram, Google, YouTube",772.0,27060.0,2291002.64,-2263942.64,-0.99,Bottom
+PU-CMP-18177,Purplle,Email,Working Women,College Students,Facebook,772.0,28655.0,2289651.64,-2260996.64,-0.99,Bottom
+PU-CMP-55918,Purplle,SEO,Premium Shoppers,Tier 2 City Customers,"Instagram, Facebook",772.0,12276.0,2256054.2,-2243778.2,-0.99,Bottom
+NY-CMP-2563,Nykaa,Email,Youth,College Students,Email,778.0,30956.0,2268134.52,-2237178.52,-0.99,Bottom
+TI-CMP-44791,Tira,Social Media,College Students,Tier 2 City Customers,Email,775.0,20748.0,2248585.0,-2227837.0,-0.99,Bottom
+PU-CMP-19599,Purplle,Email,Premium Shoppers,Premium Shoppers,"Instagram, YouTube",772.0,23452.0,2230014.64,-2206562.64,-0.99,Bottom
+PU-CMP-43352,Purplle,SEO,Working Women,Youth,"Google, Email, WhatsApp",772.0,42152.0,2246002.76,-2203850.76,-0.98,Bottom
+TI-CMP-2582,Tira,Paid Ads,Premium Shoppers,Youth,"Instagram, Google",775.0,14338.0,2200294.75,-2185956.75,-0.99,Bottom
+NY-CMP-25843,Nykaa,Social Media,Youth,Tier 2 City Customers,"WhatsApp, YouTube",778.0,50666.0,2233108.96,-2182442.96,-0.98,Bottom
+PU-CMP-44761,Purplle,Paid Ads,Premium Shoppers,College Students,WhatsApp,772.0,49266.0,2218913.28,-2169647.28,-0.98,Bottom
+PU-CMP-47543,Purplle,Influencer,Working Women,Premium Shoppers,"Email, YouTube, Facebook",772.0,35616.0,2197745.04,-2162129.04,-0.98,Bottom
+NY-CMP-3057,Nykaa,Influencer,Youth,Youth,"Email, YouTube, Instagram",778.0,43152.0,2200082.86,-2156930.86,-0.98,Bottom
+TI-CMP-52796,Tira,Paid Ads,Premium Shoppers,Tier 2 City Customers,"YouTube, Instagram, Facebook",775.0,23856.0,2163792.25,-2139936.25,-0.99,Bottom
+NY-CMP-31821,Nykaa,Social Media,Tier 2 City Customers,Youth,YouTube,778.0,51191.0,2182694.56,-2131503.56,-0.98,Bottom
+NY-CMP-23234,Nykaa,Social Media,Premium Shoppers,Youth,Unknown,778.0,360473.0,2456900.66,-2096427.6600000001,-0.85,Bottom
+NY-CMP-52526,Nykaa,Influencer,Tier 2 City Customers,Tier 2 City Customers,"WhatsApp, Facebook",778.0,20915.0,2115327.54,-2094412.54,-0.99,Bottom
+TI-CMP-39213,Tira,Email,College Students,Youth,"Instagram, YouTube, Google",775.0,25865.0,2107465.25,-2081600.25,-0.99,Bottom
+TI-CMP-28389,Tira,Influencer,Premium Shoppers,Youth,Email,775.0,23751.0,2097576.25,-2073825.25,-0.99,Bottom
+TI-CMP-49846,Tira,Influencer,Premium Shoppers,Youth,Email,775.0,45400.0,2114238.75,-2068838.75,-0.98,Bottom
+NY-CMP-7728,Nykaa,Email,College Students,Working Women,"WhatsApp, Google",778.0,17316.0,2081196.68,-2063880.68,-0.99,Bottom
+NY-CMP-15648,Nykaa,Influencer,Premium Shoppers,College Students,Unknown,778.0,38760.0,2090649.38,-2051889.38,-0.98,Bottom
+NY-CMP-22462,Nykaa,Influencer,Working Women,Youth,"YouTube, Google, Instagram",778.0,22656.0,2071495.02,-2048839.02,-0.99,Bottom
+TI-CMP-32514,Tira,Social Media,Tier 2 City Customers,Tier 2 City Customers,"WhatsApp, Email",775.0,62115.0,2093902.75,-2031787.75,-0.97,Bottom
+TI-CMP-38459,Tira,Social Media,College Students,Working Women,Facebook,775.0,55965.0,2086307.75,-2030342.75,-0.97,Bottom
+PU-CMP-35567,Purplle,Influencer,Premium Shoppers,Tier 2 City Customers,"WhatsApp, YouTube, Instagram",772.0,36890.0,2066767.52,-2029877.52,-0.98,Bottom
+TI-CMP-28096,Tira,Paid Ads,Youth,College Students,"Facebook, YouTube",775.0,61586.0,2073838.0,-2012252.0,-0.97,Bottom
+NY-CMP-40017,Nykaa,Paid Ads,Youth,College Students,"YouTube, Email, Facebook",778.0,360473.0,2340177.32,-1979704.3199999998,-0.85,Bottom
+PU-CMP-13783,Purplle,Email,Premium Shoppers,College Students,"Google, WhatsApp, Instagram",772.0,52693.0,2002838.2,-1950145.2,-0.97,Bottom
+NY-CMP-17207,Nykaa,SEO,Youth,College Students,WhatsApp,778.0,27027.0,1975054.14,-1948027.14,-0.99,Bottom
+PU-CMP-33126,Purplle,SEO,College Students,Working Women,"WhatsApp, Email",772.0,21330.0,1966847.56,-1945517.56,-0.99,Bottom
+NY-CMP-14095,Nykaa,SEO,College Students,Youth,"Instagram, YouTube",778.0,25839.0,1969436.98,-1943597.98,-0.99,Bottom
+NY-CMP-7219,Nykaa,Social Media,Working Women,Premium Shoppers,"Email, Instagram, Facebook",778.0,21456.0,1959245.18,-1937789.18,-0.99,Bottom
+PU-CMP-22805,Purplle,Social Media,Working Women,Working Women,Facebook,772.0,68698.0,1995025.56,-1926327.56,-0.97,Bottom
+NY-CMP-55812,Nykaa,Paid Ads,Tier 2 City Customers,College Students,"Facebook, Instagram",778.0,67374.0,1992994.82,-1925620.82,-0.97,Bottom
+TI-CMP-10745,Tira,Influencer,Tier 2 City Customers,College Students,"Facebook, Google",775.0,359424.0,2282034.0,-1922610.0,-0.84,Bottom
+NY-CMP-7867,Nykaa,Email,Youth,Working Women,"Instagram, YouTube",778.0,20967.0,1940588.74,-1919621.74,-0.99,Bottom
+NY-CMP-34370,Nykaa,SEO,Tier 2 City Customers,Tier 2 City Customers,"Instagram, WhatsApp",778.0,47940.0,1965780.38,-1917840.38,-0.98,Bottom
+PU-CMP-7179,Purplle,SEO,Working Women,Working Women,Google,772.0,41446.0,1939989.68,-1898543.68,-0.98,Bottom
+PU-CMP-FILL68150,Purplle,Social Media,Premium Shoppers,College Students,"Facebook, Email, YouTube",772.0,66810.0,1953746.72,-1886936.72,-0.97,Bottom
+NY-CMP-23571,Nykaa,Influencer,Tier 2 City Customers,Premium Shoppers,Facebook,778.0,60495.0,1931073.8,-1870578.8,-0.97,Bottom
+NY-CMP-12873,Nykaa,SEO,Premium Shoppers,Premium Shoppers,"Google, WhatsApp",778.0,53760.0,1897931.0,-1844171.0,-0.97,Bottom
+PU-CMP-27402,Purplle,Influencer,Premium Shoppers,Working Women,"Google, WhatsApp, Facebook",772.0,64376.0,1906330.48,-1841954.48,-0.97,Bottom
+NY-CMP-30081,Nykaa,Paid Ads,Working Women,Youth,YouTube,778.0,53037.0,1877205.08,-1824168.08,-0.97,Bottom
+PU-CMP-28894,Purplle,Influencer,College Students,Tier 2 City Customers,"YouTube, Email",772.0,41139.0,1853108.8,-1811969.8,-0.98,Bottom
+PU-CMP-42204,Purplle,Paid Ads,College Students,Premium Shoppers,Google,772.0,43000.0,1840556.08,-1797556.08,-0.98,Bottom
+NY-CMP-1203,Nykaa,Paid Ads,Premium Shoppers,Working Women,Instagram,778.0,23504.0,1818512.76,-1795008.76,-0.99,Bottom
+NY-CMP-55911,Nykaa,Email,College Students,College Students,"WhatsApp, Facebook, Google",778.0,23865.0,1818497.2,-1794632.2,-0.99,Bottom
+TI-CMP-25320,Tira,Influencer,Premium Shoppers,Working Women,"YouTube, Instagram, WhatsApp",775.0,38586.0,1820258.0,-1781672.0,-0.98,Bottom
+NY-CMP-29375,Nykaa,Email,Youth,Youth,"Facebook, YouTube",778.0,68276.0,1844708.02,-1776432.02,-0.96,Bottom
+NY-CMP-41475,Nykaa,Email,Youth,Tier 2 City Customers,Email,778.0,52316.0,1821858.16,-1769542.16,-0.97,Bottom
+PU-CMP-38486,Purplle,SEO,College Students,Tier 2 City Customers,"YouTube, Facebook, Instagram",772.0,26334.0,1794220.64,-1767886.64,-0.99,Bottom
+TI-CMP-FILL139595,Tira,SEO,Working Women,Youth,"YouTube, Email, Facebook",775.0,63744.0,1827504.25,-1763760.25,-0.97,Bottom
+TI-CMP-1033,Tira,SEO,Working Women,Youth,"Google, WhatsApp, Instagram",775.0,36750.0,1789397.5,-1752647.5,-0.98,Bottom
+TI-CMP-31916,Tira,Paid Ads,Youth,Premium Shoppers,YouTube,775.0,57722.0,1808826.75,-1751104.75,-0.97,Bottom
+NY-CMP-50897,Nykaa,SEO,Tier 2 City Customers,Tier 2 City Customers,Facebook,778.0,88356.0,1824114.36,-1735758.36,-0.95,Bottom
+TI-CMP-41004,Tira,Social Media,Premium Shoppers,Youth,"Instagram, WhatsApp, Email",775.0,75480.0,1798844.75,-1723364.75,-0.96,Bottom
+PU-CMP-44553,Purplle,Paid Ads,Tier 2 City Customers,Tier 2 City Customers,"Facebook, WhatsApp",772.0,58240.0,1770782.7200000002,-1712542.7200000002,-0.97,Bottom
+NY-CMP-36722,Nykaa,Influencer,Youth,Tier 2 City Customers,"YouTube, Email, Google",778.0,93345.0,1804213.12,-1710868.12,-0.95,Bottom
+NY-CMP-33488,Nykaa,Influencer,Youth,College Students,"Google, WhatsApp, Facebook",778.0,80730.0,1781433.2800000005,-1700703.2800000005,-0.95,Bottom
+NY-CMP-3186,Nykaa,Social Media,Working Women,College Students,Google,778.0,50386.0,1747745.88,-1697359.88,-0.97,Bottom
+TI-CMP-37137,Tira,Email,Youth,Youth,"Facebook, Email",775.0,56376.0,1751825.5,-1695449.5,-0.97,Bottom
+NY-CMP-25130,Nykaa,Influencer,Youth,College Students,"Facebook, WhatsApp, Email",778.0,26978.0,1713615.02,-1686637.02,-0.98,Bottom
+NY-CMP-16118,Nykaa,Social Media,Youth,Youth,"WhatsApp, Email",778.0,29592.0,1700147.84,-1670555.84,-0.98,Bottom
+NY-CMP-13689,Nykaa,Influencer,Youth,Premium Shoppers,"Google, YouTube, WhatsApp",778.0,69360.0,1739156.76,-1669796.76,-0.96,Bottom
+NY-CMP-13224,Nykaa,Email,Tier 2 City Customers,Youth,Google,778.0,53200.0,1722873.2199999995,-1669673.2199999995,-0.97,Bottom
+TI-CMP-19082,Tira,Email,Working Women,Youth,"Google, YouTube",775.0,53820.0,1722646.75,-1668826.75,-0.97,Bottom
+NY-CMP-51255,Nykaa,Social Media,Tier 2 City Customers,College Students,"Facebook, YouTube, WhatsApp",778.0,18496.0,1682938.48,-1664442.48,-0.99,Bottom
+NY-CMP-19524,Nykaa,Paid Ads,Working Women,College Students,"Instagram, WhatsApp",778.0,360473.0,2019796.92,-1659323.92,-0.82,Bottom
+PU-CMP-31554,Purplle,Paid Ads,Premium Shoppers,Working Women,"WhatsApp, Instagram",772.0,22422.0,1678173.6,-1655751.6,-0.99,Bottom
+PU-CMP-48750,Purplle,Email,College Students,Tier 2 City Customers,"WhatsApp, Google",772.0,49280.0,1698840.04,-1649560.04,-0.97,Bottom
+NY-CMP-17993,Nykaa,Paid Ads,Tier 2 City Customers,Youth,WhatsApp,778.0,50903.0,1698949.7199999995,-1648046.7199999995,-0.97,Bottom
+NY-CMP-32448,Nykaa,Paid Ads,Premium Shoppers,Tier 2 City Customers,"Instagram, Email, Facebook",778.0,49032.0,1696561.26,-1647529.26,-0.97,Bottom
+TI-CMP-38705,Tira,Influencer,Youth,Youth,"Facebook, Email",775.0,13720.0,1659623.7499999998,-1645903.7499999998,-0.99,Bottom
+PU-CMP-51617,Purplle,Influencer,Tier 2 City Customers,Youth,Unknown,772.0,98400.0,1737169.84,-1638769.84,-0.94,Bottom
+TI-CMP-54626,Tira,SEO,Tier 2 City Customers,Youth,"Instagram, Google, YouTube",775.0,24960.0,1662871.0,-1637911.0,-0.98,Bottom
+NY-CMP-5684,Nykaa,SEO,Youth,College Students,WhatsApp,778.0,63200.0,1673835.88,-1610635.88,-0.96,Bottom
+NY-CMP-25754,Nykaa,SEO,Working Women,Youth,Google,778.0,62487.0,1664655.48,-1602168.48,-0.96,Bottom
+PU-CMP-43149,Purplle,Email,College Students,Tier 2 City Customers,Google,772.0,22610.0,1624658.56,-1602048.56,-0.99,Bottom
+TI-CMP-35864,Tira,Email,Tier 2 City Customers,Working Women,"Facebook, YouTube, WhatsApp",775.0,69696.0,1665459.5,-1595763.5,-0.96,Bottom
+PU-CMP-51463,Purplle,Email,Youth,Working Women,"Google, YouTube",772.0,31584.0,1613410.5199999998,-1581826.5199999998,-0.98,Bottom
+NY-CMP-40359,Nykaa,SEO,Working Women,Premium Shoppers,Email,778.0,51030.0,1628859.7000000002,-1577829.7000000002,-0.97,Bottom
+PU-CMP-37300,Purplle,Influencer,Premium Shoppers,Working Women,"Email, Instagram, YouTube",772.0,103621.0,1679756.2,-1576135.2,-0.94,Bottom
+NY-CMP-9939,Nykaa,SEO,College Students,Premium Shoppers,Instagram,778.0,74496.0,1630734.68,-1556238.68,-0.95,Bottom
+NY-CMP-43628,Nykaa,SEO,Premium Shoppers,Tier 2 City Customers,"Instagram, Facebook",778.0,39104.0,1594697.7199999995,-1555593.7199999995,-0.98,Bottom
+PU-CMP-7095,Purplle,Social Media,Working Women,Tier 2 City Customers,Email,772.0,50316.0,1603968.96,-1553652.96,-0.97,Bottom
+TI-CMP-49172,Tira,Influencer,Working Women,Premium Shoppers,"WhatsApp, Instagram",775.0,53768.0,1603064.2499999998,-1549296.2499999998,-0.97,Bottom
+TI-CMP-35126,Tira,Influencer,Working Women,Youth,Unknown,775.0,24570.0,1559044.25,-1534474.25,-0.98,Bottom
+TI-CMP-15617,Tira,SEO,College Students,Premium Shoppers,Email,775.0,90288.0,1619509.75,-1529221.75,-0.94,Bottom
+TI-CMP-11165,Tira,Paid Ads,Tier 2 City Customers,College Students,"YouTube, WhatsApp, Email",775.0,27756.0,1550697.5,-1522941.5,-0.98,Bottom
+PU-CMP-46491,Purplle,Influencer,Premium Shoppers,Youth,Instagram,772.0,26208.0,1542062.28,-1515854.28,-0.98,Bottom
+PU-CMP-FILL94115,Purplle,Paid Ads,Youth,College Students,"Email, Instagram",772.0,43092.0,1555757.56,-1512665.56,-0.97,Bottom
+NY-CMP-37172,Nykaa,Influencer,Tier 2 City Customers,Youth,WhatsApp,778.0,34844.0,1546189.4200000002,-1511345.4200000002,-0.98,Bottom
+TI-CMP-43771,Tira,SEO,Tier 2 City Customers,Premium Shoppers,"Instagram, Email",775.0,28938.0,1539700.25,-1510762.25,-0.98,Bottom
+NY-CMP-2533,Nykaa,Influencer,College Students,College Students,"Instagram, YouTube, Email",778.0,360473.0,1868265.86,-1507792.86,-0.81,Bottom
+NY-CMP-24930,Nykaa,SEO,Tier 2 City Customers,Working Women,"WhatsApp, Facebook, Instagram",778.0,51686.0,1559088.66,-1507402.66,-0.97,Bottom
+TI-CMP-41279,Tira,Paid Ads,Working Women,Premium Shoppers,"WhatsApp, Google",775.0,22572.0,1528191.5,-1505619.5,-0.99,Bottom
+NY-CMP-9757,Nykaa,Influencer,Youth,Premium Shoppers,WhatsApp,778.0,60102.0,1560597.98,-1500495.98,-0.96,Bottom
+PU-CMP-5152,Purplle,Paid Ads,Working Women,Premium Shoppers,"Google, Facebook, YouTube",772.0,93808.0,1591354.4800000002,-1497546.4800000002,-0.94,Bottom
+NY-CMP-30334,Nykaa,Paid Ads,Tier 2 City Customers,Premium Shoppers,YouTube,778.0,38984.0,1520009.72,-1481025.72,-0.97,Bottom
+PU-CMP-29095,Purplle,SEO,Tier 2 City Customers,College Students,"Facebook, Instagram",772.0,50460.0,1526938.8,-1476478.8,-0.97,Bottom
+NY-CMP-28352,Nykaa,Email,Tier 2 City Customers,College Students,"Email, WhatsApp",778.0,38947.0,1500349.66,-1461402.66,-0.97,Bottom
+TI-CMP-11026,Tira,Influencer,Youth,Working Women,Email,775.0,35245.0,1496122.0,-1460877.0,-0.98,Bottom
+NY-CMP-30814,Nykaa,Influencer,Premium Shoppers,Tier 2 City Customers,"Instagram, YouTube, WhatsApp",778.0,50949.0,1510261.38,-1459312.38,-0.97,Bottom
+TI-CMP-2443,Tira,Paid Ads,College Students,Working Women,"YouTube, Google, Email",775.0,46200.0,1504972.5,-1458772.5,-0.97,Bottom
+NY-CMP-31401,Nykaa,Social Media,College Students,Premium Shoppers,"Instagram, Email",778.0,76505.0,1533150.14,-1456645.14,-0.95,Bottom
+TI-CMP-FILL127176,Tira,SEO,Working Women,Premium Shoppers,"Google, Email, WhatsApp",775.0,46440.0,1501113.0,-1454673.0,-0.97,Bottom
+PU-CMP-19981,Purplle,SEO,Working Women,Tier 2 City Customers,"Instagram, YouTube",772.0,34178.0,1488500.92,-1454322.92,-0.98,Bottom
+TI-CMP-28543,Tira,Social Media,Tier 2 City Customers,Tier 2 City Customers,"Facebook, Email, YouTube",775.0,55980.0,1510002.25,-1454022.25,-0.96,Bottom
+TI-CMP-51686,Tira,Social Media,Premium Shoppers,College Students,Unknown,775.0,78771.0,1519310.0,-1440539.0,-0.95,Bottom
+TI-CMP-47959,Tira,Paid Ads,College Students,College Students,"Facebook, Email, YouTube",775.0,37500.0,1472097.0,-1434597.0,-0.97,Bottom
+TI-CMP-1015,Tira,SEO,Premium Shoppers,Youth,Unknown,775.0,99552.0,1529214.5,-1429662.5,-0.93,Bottom
+TI-CMP-43576,Tira,Paid Ads,Premium Shoppers,Youth,"Instagram, WhatsApp",775.0,89488.0,1514047.75,-1424559.75,-0.94,Bottom
+TI-CMP-24060,Tira,SEO,College Students,College Students,Instagram,775.0,112896.0,1534089.25,-1421193.25,-0.93,Bottom
+TI-CMP-22610,Tira,Email,Working Women,Working Women,"Email, Facebook",775.0,66452.0,1485194.5,-1418742.5,-0.96,Bottom
+NY-CMP-56177,Nykaa,Influencer,Premium Shoppers,Working Women,"Email, Instagram, Facebook",778.0,28396.0,1445119.44,-1416723.44,-0.98,Bottom
+NY-CMP-14747,Nykaa,Influencer,Youth,Youth,WhatsApp,778.0,64296.0,1462795.6,-1398499.6,-0.96,Bottom
+TI-CMP-47328,Tira,Influencer,Tier 2 City Customers,Youth,YouTube,775.0,37812.0,1435788.25,-1397976.25,-0.97,Bottom
+PU-CMP-35918,Purplle,Social Media,Working Women,Tier 2 City Customers,"Google, Facebook, WhatsApp",772.0,89250.0,1484085.08,-1394835.08,-0.94,Bottom
+TI-CMP-17461,Tira,SEO,Working Women,College Students,Facebook,775.0,48960.0,1436974.0,-1388014.0,-0.97,Bottom
+TI-CMP-46880,Tira,Paid Ads,Youth,Youth,"YouTube, Google, WhatsApp",775.0,38880.0,1412499.5,-1373619.5,-0.97,Bottom
+NY-CMP-11371,Nykaa,SEO,Tier 2 City Customers,Tier 2 City Customers,"Facebook, Instagram, Google",778.0,90441.0,1463947.04,-1373506.04,-0.94,Bottom
+PU-CMP-4596,Purplle,SEO,College Students,Youth,"Email, YouTube, Instagram",772.0,38752.0,1412096.08,-1373344.08,-0.97,Bottom
+NY-CMP-18894,Nykaa,Email,Premium Shoppers,College Students,"Facebook, Email, WhatsApp",778.0,57912.0,1430174.06,-1372262.06,-0.96,Bottom
+PU-CMP-16175,Purplle,SEO,Working Women,Premium Shoppers,"YouTube, Facebook",772.0,77159.0,1446836.08,-1369677.08,-0.95,Bottom
+PU-CMP-12193,Purplle,Social Media,College Students,Working Women,"Facebook, Instagram, YouTube",772.0,34697.0,1402438.36,-1367741.36,-0.98,Bottom
+PU-CMP-37512,Purplle,Influencer,Youth,Premium Shoppers,"Instagram, YouTube, WhatsApp",772.0,52326.0,1418357.0,-1366031.0,-0.96,Bottom
+TI-CMP-52186,Tira,Social Media,Premium Shoppers,Working Women,Google,775.0,28500.0,1394108.75,-1365608.75,-0.98,Bottom
+PU-CMP-47997,Purplle,SEO,Youth,Tier 2 City Customers,"YouTube, Email",772.0,91622.0,1457119.12,-1365497.12,-0.94,Bottom
+PU-CMP-27595,Purplle,Email,College Students,Premium Shoppers,"Instagram, Google",772.0,49248.0,1411015.28,-1361767.28,-0.97,Bottom
+NY-CMP-23284,Nykaa,Influencer,Youth,Youth,"Instagram, YouTube, Google",778.0,86292.0,1447492.34,-1361200.34,-0.94,Bottom
+TI-CMP-28288,Tira,Email,Youth,Youth,"WhatsApp, YouTube, Google",775.0,51528.0,1408562.5,-1357034.5,-0.96,Bottom
+TI-CMP-15969,Tira,Email,Tier 2 City Customers,Youth,"Facebook, Google, Instagram",775.0,67284.0,1424279.5,-1356995.5,-0.95,Bottom
+TI-CMP-47137,Tira,SEO,Premium Shoppers,Youth,"Instagram, Google, Email",775.0,26664.0,1378686.25,-1352022.25,-0.98,Bottom
+TI-CMP-21290,Tira,SEO,College Students,Working Women,"Google, Email, Facebook",775.0,43260.0,1394852.75,-1351592.75,-0.97,Bottom
+PU-CMP-20209,Purplle,Paid Ads,Working Women,College Students,"Facebook, Instagram",772.0,75922.0,1426270.0,-1350348.0,-0.95,Bottom
+PU-CMP-35575,Purplle,Email,College Students,Working Women,"Instagram, YouTube, Email",772.0,81326.0,1430678.12,-1349352.12,-0.94,Bottom
+NY-CMP-55350,Nykaa,SEO,Working Women,Working Women,"Instagram, Facebook",778.0,72828.0,1420713.5799999998,-1347885.5799999998,-0.95,Bottom
+TI-CMP-4743,Tira,Email,Youth,College Students,WhatsApp,775.0,36835.0,1379298.5,-1342463.5,-0.97,Bottom
+NY-CMP-38318,Nykaa,SEO,College Students,Premium Shoppers,"YouTube, WhatsApp, Instagram",778.0,76806.0,1418566.2999999998,-1341760.2999999998,-0.95,Bottom
+TI-CMP-40043,Tira,SEO,Working Women,Working Women,"Instagram, Email, YouTube",775.0,43460.0,1385103.25,-1341643.25,-0.97,Bottom
+TI-CMP-1709,Tira,Social Media,College Students,Working Women,Unknown,775.0,67602.0,1405873.25,-1338271.25,-0.95,Bottom
+NY-CMP-48729,Nykaa,Social Media,Tier 2 City Customers,Premium Shoppers,"Email, Instagram",778.0,21500.0,1343465.96,-1321965.96,-0.98,Bottom
+PU-CMP-43930,Purplle,Social Media,Working Women,Working Women,"WhatsApp, Email, Google",772.0,109356.0,1431102.72,-1321746.72,-0.92,Bottom
+NY-CMP-40714,Nykaa,Influencer,Working Women,Premium Shoppers,Instagram,778.0,48471.0,1366097.98,-1317626.98,-0.96,Bottom
+TI-CMP-15135,Tira,Email,Youth,College Students,"Instagram, YouTube",775.0,43815.0,1360652.0,-1316837.0,-0.97,Bottom
+TI-CMP-50876,Tira,Paid Ads,Tier 2 City Customers,Youth,"YouTube, Google",775.0,40455.0,1353506.5,-1313051.5,-0.97,Bottom
+NY-CMP-30367,Nykaa,Email,Working Women,College Students,"YouTube, Google",778.0,89232.0,1399295.24,-1310063.24,-0.94,Bottom
+PU-CMP-14967,Purplle,Influencer,Working Women,Tier 2 City Customers,"WhatsApp, Instagram, Facebook",772.0,32033.0,1341867.24,-1309834.24,-0.98,Bottom
+NY-CMP-31059,Nykaa,Paid Ads,Tier 2 City Customers,Working Women,"Facebook, YouTube",778.0,76608.0,1385703.5799999998,-1309095.5799999998,-0.94,Bottom
+NY-CMP-25092,Nykaa,Email,Premium Shoppers,Tier 2 City Customers,Google,778.0,34146.0,1335538.14,-1301392.14,-0.97,Bottom
+NY-CMP-29357,Nykaa,Social Media,Youth,Youth,"YouTube, Facebook, WhatsApp",778.0,22763.0,1323704.76,-1300941.76,-0.98,Bottom
+NY-CMP-4440,Nykaa,Paid Ads,Tier 2 City Customers,Tier 2 City Customers,"YouTube, Google, WhatsApp",778.0,77385.0,1374072.48,-1296687.48,-0.94,Bottom
+NY-CMP-41915,Nykaa,Influencer,Youth,Working Women,"WhatsApp, Email, YouTube",778.0,34695.0,1330403.34,-1295708.34,-0.97,Bottom
+TI-CMP-50811,Tira,Social Media,Tier 2 City Customers,College Students,Google,775.0,27115.0,1321204.5,-1294089.5,-0.98,Bottom
+TI-CMP-33412,Tira,Influencer,Tier 2 City Customers,Tier 2 City Customers,"YouTube, Instagram",775.0,17355.0,1305425.5,-1288070.5,-0.99,Bottom
+TI-CMP-32729,Tira,Influencer,Tier 2 City Customers,Premium Shoppers,"WhatsApp, Instagram, Facebook",775.0,52325.0,1340145.5,-1287820.5,-0.96,Bottom
+NY-CMP-23208,Nykaa,Influencer,Premium Shoppers,Premium Shoppers,"Email, Google",778.0,31239.0,1308736.04,-1277497.04,-0.98,Bottom
+TI-CMP-31014,Tira,Social Media,Premium Shoppers,Tier 2 City Customers,"Facebook, Email, Google",775.0,43351.0,1317073.75,-1273722.75,-0.97,Bottom
+NY-CMP-21831,Nykaa,Influencer,Working Women,Tier 2 City Customers,"WhatsApp, Facebook",778.0,58804.0,1330986.84,-1272182.84,-0.96,Bottom
+PU-CMP-40228,Purplle,Paid Ads,Tier 2 City Customers,Youth,Google,772.0,66992.0,1329553.84,-1262561.84,-0.95,Bottom
+TI-CMP-40303,Tira,SEO,Working Women,College Students,"Instagram, Facebook",775.0,41480.0,1295536.5,-1254056.5,-0.97,Bottom
+TI-CMP-49080,Tira,Paid Ads,College Students,Youth,"YouTube, Email",775.0,127494.0,1380321.5,-1252827.5,-0.91,Bottom
+NY-CMP-28270,Nykaa,Paid Ads,Youth,College Students,"Email, Facebook, Google",778.0,60417.0,1305826.32,-1245409.32,-0.95,Bottom
+PU-CMP-33471,Purplle,Influencer,Working Women,Youth,"Instagram, Facebook, YouTube",772.0,62720.0,1305004.24,-1242284.24,-0.95,Bottom
+PU-CMP-22639,Purplle,Social Media,Premium Shoppers,Working Women,Unknown,772.0,357886.0,1587563.96,-1229677.96,-0.77,Bottom
+TI-CMP-8073,Tira,Paid Ads,Working Women,Youth,"Instagram, YouTube, Facebook",775.0,33600.0,1261165.25,-1227565.25,-0.97,Bottom
+NY-CMP-29381,Nykaa,Social Media,Youth,College Students,"WhatsApp, Email, YouTube",778.0,75582.0,1301251.68,-1225669.68,-0.94,Bottom
+NY-CMP-52401,Nykaa,Paid Ads,Youth,Tier 2 City Customers,"Facebook, Email",778.0,88803.0,1312151.46,-1223348.46,-0.93,Bottom
+NY-CMP-11275,Nykaa,Email,Premium Shoppers,Working Women,"YouTube, Email",778.0,57065.0,1275585.46,-1218520.46,-0.96,Bottom
+TI-CMP-12023,Tira,Paid Ads,Premium Shoppers,Premium Shoppers,Unknown,775.0,124317.0,1332992.25,-1208675.25,-0.91,Bottom
+NY-CMP-5480,Nykaa,Social Media,Tier 2 City Customers,Youth,YouTube,778.0,68355.0,1275118.66,-1206763.66,-0.95,Bottom
+NY-CMP-38456,Nykaa,Social Media,Working Women,Tier 2 City Customers,"Instagram, YouTube",778.0,53290.0,1258982.94,-1205692.94,-0.96,Bottom
+TI-CMP-7237,Tira,Social Media,Premium Shoppers,Working Women,"Instagram, Facebook",775.0,34000.0,1237543.25,-1203543.25,-0.97,Bottom
+NY-CMP-42816,Nykaa,SEO,Tier 2 City Customers,College Students,"Facebook, Email",778.0,46398.0,1244621.06,-1198223.06,-0.96,Bottom
+NY-CMP-44901,Nykaa,Paid Ads,College Students,Youth,"Instagram, Email",778.0,27740.0,1223086.02,-1195346.02,-0.98,Bottom
+NY-CMP-10023,Nykaa,Social Media,Tier 2 City Customers,Working Women,"Facebook, Google, Instagram",778.0,105546.0,1299368.9200000002,-1193822.9200000002,-0.92,Bottom
+NY-CMP-49724,Nykaa,Social Media,Tier 2 City Customers,Premium Shoppers,YouTube,778.0,77043.0,1270590.7000000002,-1193547.7000000002,-0.94,Bottom
+PU-CMP-40513,Purplle,SEO,Working Women,Working Women,Google,772.0,43095.0,1234358.52,-1191263.52,-0.97,Bottom
+NY-CMP-23515,Nykaa,Influencer,Premium Shoppers,Working Women,"WhatsApp, Email, Google",778.0,89268.0,1279491.02,-1190223.02,-0.93,Bottom
+PU-CMP-10378,Purplle,Influencer,Youth,College Students,Instagram,772.0,37771.0,1227634.4,-1189863.4,-0.97,Bottom
+NY-CMP-38556,Nykaa,Social Media,Youth,Youth,Google,778.0,360473.0,1550328.38,-1189855.38,-0.77,Bottom
+PU-CMP-3490,Purplle,Social Media,Working Women,Tier 2 City Customers,WhatsApp,772.0,28014.0,1215583.48,-1187569.48,-0.98,Bottom
+PU-CMP-12510,Purplle,Email,College Students,Working Women,"WhatsApp, Facebook, Google",772.0,122148.0,1306177.68,-1184029.68,-0.91,Bottom
+TI-CMP-10813,Tira,Email,Tier 2 City Customers,Tier 2 City Customers,"Instagram, Google, WhatsApp",775.0,47190.0,1221655.75,-1174465.75,-0.96,Bottom
+PU-CMP-7589,Purplle,Paid Ads,College Students,Youth,"Facebook, Google",772.0,63732.0,1237516.0,-1173784.0,-0.95,Bottom
+PU-CMP-55914,Purplle,Influencer,Premium Shoppers,Working Women,Instagram,772.0,28426.0,1201139.36,-1172713.36,-0.98,Bottom
+TI-CMP-42206,Tira,Influencer,Youth,College Students,"Google, Email",775.0,96138.0,1266644.5,-1170506.5,-0.92,Bottom
+TI-CMP-FILL158547,Tira,SEO,Tier 2 City Customers,Tier 2 City Customers,"YouTube, Email",775.0,98154.0,1266598.0,-1168444.0,-0.92,Bottom
+PU-CMP-51557,Purplle,Email,Premium Shoppers,Working Women,YouTube,772.0,67645.0,1232312.72,-1164667.72,-0.95,Bottom
+NY-CMP-33112,Nykaa,Influencer,Tier 2 City Customers,Premium Shoppers,"Google, Instagram, Facebook",778.0,61880.0,1226361.4,-1164481.4,-0.95,Bottom
+TI-CMP-50973,Tira,Paid Ads,Tier 2 City Customers,Working Women,"Email, Google",775.0,92274.0,1255507.75,-1163233.75,-0.93,Bottom
+NY-CMP-11271,Nykaa,Social Media,Premium Shoppers,Youth,Google,778.0,36340.0,1198291.16,-1161951.16,-0.97,Bottom
+NY-CMP-53526,Nykaa,SEO,Tier 2 City Customers,Working Women,"WhatsApp, YouTube, Facebook",778.0,70350.0,1229947.98,-1159597.98,-0.94,Bottom
+NY-CMP-14900,Nykaa,Influencer,College Students,Youth,YouTube,778.0,112749.0,1272107.7999999998,-1159358.7999999998,-0.91,Bottom
+TI-CMP-25254,Tira,Paid Ads,Premium Shoppers,Youth,"Email, YouTube",775.0,58208.0,1213603.5,-1155395.5,-0.95,Bottom
+NY-CMP-9464,Nykaa,Influencer,Working Women,Youth,"YouTube, Email",778.0,126324.0,1280393.5,-1154069.5,-0.9,Bottom
+PU-CMP-45201,Purplle,Social Media,College Students,Youth,"WhatsApp, Email, Instagram",772.0,93080.0,1247142.84,-1154062.84,-0.93,Bottom
+NY-CMP-8301,Nykaa,Email,Working Women,Youth,"Email, Google, WhatsApp",778.0,37157.0,1189453.0799999998,-1152296.0799999998,-0.97,Bottom
+PU-CMP-31164,Purplle,Influencer,Premium Shoppers,Youth,"Facebook, Google, Email",772.0,47996.0,1195704.48,-1147708.48,-0.96,Bottom
+NY-CMP-3246,Nykaa,Influencer,Premium Shoppers,Working Women,Instagram,778.0,44125.0,1186621.16,-1142496.16,-0.96,Bottom
+NY-CMP-56012,Nykaa,Paid Ads,Premium Shoppers,Working Women,"Google, WhatsApp",778.0,42432.0,1184792.86,-1142360.86,-0.96,Bottom
+PU-CMP-5379,Purplle,Email,Premium Shoppers,Premium Shoppers,"Instagram, Facebook, Email",772.0,46965.0,1187204.76,-1140239.76,-0.96,Bottom
+PU-CMP-14703,Purplle,SEO,Tier 2 City Customers,Youth,"Facebook, Google",772.0,108654.0,1242456.8,-1133802.8,-0.91,Bottom
+NY-CMP-40492,Nykaa,Influencer,College Students,Working Women,"YouTube, Facebook",778.0,79390.0,1210085.64,-1130695.64,-0.93,Bottom
+TI-CMP-44419,Tira,Email,Working Women,Youth,"Facebook, Instagram, WhatsApp",775.0,97185.0,1220059.25,-1122874.25,-0.92,Bottom
+NY-CMP-48647,Nykaa,Social Media,College Students,College Students,Instagram,778.0,61664.0,1184505.0,-1122841.0,-0.95,Bottom
+NY-CMP-55143,Nykaa,Paid Ads,College Students,Premium Shoppers,Instagram,778.0,61722.0,1181540.82,-1119818.82,-0.95,Bottom
+NY-CMP-36213,Nykaa,Influencer,Youth,Youth,Unknown,778.0,36935.0,1156092.44,-1119157.44,-0.97,Bottom
+PU-CMP-34676,Purplle,SEO,Working Women,Tier 2 City Customers,"WhatsApp, Google",772.0,141947.0,1253519.56,-1111572.56,-0.89,Bottom
+TI-CMP-40328,Tira,Influencer,Tier 2 City Customers,Tier 2 City Customers,"Email, YouTube",775.0,86580.0,1195879.25,-1109299.25,-0.93,Bottom
+NY-CMP-31678,Nykaa,Influencer,College Students,Premium Shoppers,"YouTube, WhatsApp, Google",778.0,21700.0,1129624.88,-1107924.88,-0.98,Bottom
+PU-CMP-44224,Purplle,Email,Youth,Working Women,"Facebook, WhatsApp",772.0,39140.0,1145277.44,-1106137.44,-0.97,Bottom
+TI-CMP-39341,Tira,SEO,College Students,Youth,"Email, YouTube",775.0,111672.0,1216199.75,-1104527.75,-0.91,Bottom
+TI-CMP-49000,Tira,SEO,College Students,Working Women,"Email, Facebook",775.0,79422.0,1182905.75,-1103483.75,-0.93,Bottom
+NY-CMP-37612,Nykaa,Email,Working Women,Premium Shoppers,"Email, Facebook",778.0,96448.0,1192798.48,-1096350.48,-0.92,Bottom
+TI-CMP-9828,Tira,Influencer,Working Women,College Students,"Instagram, Google",775.0,74088.0,1165398.5,-1091310.5,-0.94,Bottom
+NY-CMP-47428,Nykaa,Influencer,Tier 2 City Customers,Tier 2 City Customers,"Instagram, Email, YouTube",778.0,53600.0,1142166.24,-1088566.24,-0.95,Bottom
+TI-CMP-46466,Tira,Influencer,College Students,College Students,Facebook,775.0,104148.0,1191322.25,-1087174.25,-0.91,Bottom
+TI-CMP-38761,Tira,Social Media,Tier 2 City Customers,Tier 2 City Customers,"Instagram, YouTube",775.0,41606.0,1121828.0,-1080222.0,-0.96,Bottom
+TI-CMP-26551,Tira,Influencer,Working Women,Tier 2 City Customers,Google,775.0,359424.0,1438888.25,-1079464.25,-0.75,Bottom
+NY-CMP-6240,Nykaa,Social Media,College Students,Working Women,"Facebook, Instagram, Email",778.0,39886.0,1117161.32,-1077275.32,-0.96,Bottom
+PU-CMP-27878,Purplle,Social Media,Tier 2 City Customers,Working Women,"Google, Email, Facebook",772.0,67968.0,1144034.52,-1076066.52,-0.94,Bottom
+PU-CMP-1285,Purplle,Social Media,College Students,Working Women,Instagram,772.0,66400.0,1141409.72,-1075009.72,-0.94,Bottom
+PU-CMP-16427,Purplle,Email,Youth,Youth,"Instagram, WhatsApp",772.0,17472.0,1088319.28,-1070847.28,-0.98,Bottom
+TI-CMP-7277,Tira,Email,Tier 2 City Customers,College Students,"Email, Google, WhatsApp",775.0,16416.0,1086782.5,-1070366.5,-0.98,Bottom
+PU-CMP-5885,Purplle,SEO,College Students,Tier 2 City Customers,WhatsApp,772.0,75761.0,1145161.64,-1069400.64,-0.93,Bottom
+TI-CMP-47593,Tira,Influencer,College Students,Working Women,"Email, Facebook, Instagram",775.0,42395.0,1108606.5,-1066211.5,-0.96,Bottom
+NY-CMP-10470,Nykaa,Paid Ads,Tier 2 City Customers,College Students,"YouTube, Email",778.0,100646.0,1164121.4,-1063475.4,-0.91,Bottom
+PU-CMP-13210,Purplle,Email,Tier 2 City Customers,Tier 2 City Customers,"YouTube, WhatsApp, Instagram",772.0,102872.0,1164608.32,-1061736.32,-0.91,Bottom
+TI-CMP-5057,Tira,Email,Youth,Premium Shoppers,YouTube,775.0,88466.0,1149976.0,-1061510.0,-0.92,Bottom
+TI-CMP-3665,Tira,Social Media,Tier 2 City Customers,Youth,"Email, WhatsApp",775.0,58752.0,1118759.0,-1060007.0,-0.95,Bottom
+TI-CMP-55478,Tira,Influencer,Premium Shoppers,Youth,"YouTube, Instagram, Google",775.0,96801.0,1155401.0,-1058600.0,-0.92,Bottom
+PU-CMP-13929,Purplle,Paid Ads,Youth,Tier 2 City Customers,"WhatsApp, YouTube",772.0,58644.0,1103211.16,-1044567.1599999999,-0.95,Bottom
+NY-CMP-43165,Nykaa,Influencer,Youth,College Students,"Email, Facebook, Instagram",778.0,74865.0,1116850.12,-1041985.1200000001,-0.93,Bottom
+PU-CMP-11727,Purplle,Email,Premium Shoppers,Working Women,"Instagram, WhatsApp, YouTube",772.0,56523.0,1092109.8,-1035586.8,-0.95,Bottom
+NY-CMP-33485,Nykaa,Influencer,Working Women,Youth,WhatsApp,778.0,19197.0,1051575.9200000002,-1032378.9200000002,-0.98,Bottom
+NY-CMP-19671,Nykaa,Email,College Students,Working Women,"YouTube, Facebook, WhatsApp",778.0,31168.0,1061705.48,-1030537.48,-0.97,Bottom
+NY-CMP-51007,Nykaa,Paid Ads,Working Women,Tier 2 City Customers,"YouTube, WhatsApp, Email",778.0,72618.0,1096131.98,-1023513.98,-0.93,Bottom
+PU-CMP-9641,Purplle,SEO,College Students,Youth,Google,772.0,29750.0,1050251.96,-1020501.96,-0.97,Bottom
+TI-CMP-7027,Tira,SEO,Premium Shoppers,Tier 2 City Customers,YouTube,775.0,359424.0,1379538.75,-1020114.75,-0.74,Bottom
+TI-CMP-2354,Tira,SEO,Premium Shoppers,Youth,YouTube,775.0,47276.0,1063044.25,-1015768.25,-0.96,Bottom
+NY-CMP-28610,Nykaa,Influencer,Working Women,Premium Shoppers,Unknown,778.0,86757.0,1100481.0,-1013724.0,-0.92,Bottom
+PU-CMP-7782,Purplle,Email,Premium Shoppers,Working Women,"Instagram, Facebook",772.0,37820.0,1049263.8,-1011443.8,-0.96,Bottom
+NY-CMP-35372,Nykaa,Email,Premium Shoppers,Tier 2 City Customers,"YouTube, WhatsApp, Email",778.0,83760.0,1094498.18,-1010738.1799999999,-0.92,Bottom
+PU-CMP-53880,Purplle,Influencer,Premium Shoppers,Premium Shoppers,"Google, YouTube, Facebook",772.0,60188.0,1070416.6,-1010228.6000000001,-0.94,Bottom
+TI-CMP-FILL138799,Tira,Social Media,Premium Shoppers,Working Women,"Facebook, Instagram",775.0,45492.0,1052690.25,-1007198.25,-0.96,Bottom
+NY-CMP-32267,Nykaa,Influencer,Youth,College Students,YouTube,778.0,61920.0,1065797.76,-1003877.76,-0.94,Bottom
